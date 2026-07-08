@@ -316,7 +316,7 @@ export default function AranMap({
       <MapContainer
         center={INITIAL_CENTER}
         zoom={INITIAL_ZOOM}
-        minZoom={8}
+        minZoom={6}
         maxZoom={18}
         maxBounds={ARAN_BOUNDS}
         maxBoundsViscosity={1.0}
