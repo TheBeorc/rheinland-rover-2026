@@ -216,40 +216,7 @@ function MapClickCloser({ onClose }: { onClose: () => void }) {
   return null;
 }
 
-function RoutesLayer({ routes, visible }: { routes: RouteFeature[]; visible: boolean }) {
-  const map = useMap();
-  useEffect(() => {
-    if (!visible) return;
-    const group = L.layerGroup();
-    for (const feat of routes) {
-      const coords = feat.geometry.coordinates.map(
-        ([lng, lat]) => [lat, lng] as [number, number],
-      );
-      const style = ROUTE_STYLE[feat.properties.mode];
-      const poly = L.polyline(coords, {
-        color: style.color,
-        weight: 4,
-        opacity: 0.9,
-        dashArray: style.dashArray,
-        lineCap: "round",
-        lineJoin: "round",
-      });
-      const desc = feat.properties.description
-        ? `<div style="margin-top:4px;font-size:12px;opacity:0.8">${feat.properties.description}</div>`
-        : "";
-      poly.bindTooltip(
-        `<strong>${feat.properties.name}</strong> · ${feat.properties.mode}${desc}`,
-        { sticky: true, className: "aran-tooltip" },
-      );
-      group.addLayer(poly);
-    }
-    group.addTo(map);
-    return () => {
-      map.removeLayer(group);
-    };
-  }, [map, routes, visible]);
-  return null;
-}
+// RoutesLayer removed
 
 // --- Main component ---
 export interface AranMapProps {
