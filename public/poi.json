@@ -1,0 +1,2804 @@
+[
+  {
+    "name": "Cill Éinne (Killeany)",
+    "region": "Inishmore",
+    "cluster": "Cill Éinne & The Monastic Shore (Inishmore)",
+    "lat": 53.1048,
+    "long": -9.66199,
+    "coord_precision": "precise",
+    "description": "A low-lying monastic village near the bay, once described by George Petrie as a picturesque collection of thatched huts.",
+    "folklore": "The spiritual capital of Aran, founded by St. Enda. Robinson notes the village was once a \"colony\" of the English garrison at Arkin. During the late 19th century, it was the site of intense sectarian strife. The \"Soupers' List\" (c. 1880s) contained ten families refused relief because they worked for the Protestant Reverend Kilbride or the shopkeeper Richard Charde.",
+    "nature": "Coastal machair and sand dunes. Features the Wood Rush, rare on the islands.",
+    "icon_type": "village_settlement",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/County_Galway_-_Cuan_Chill_%C3%89inne_-_20130916111102.jpg",
+        "author": "KevForkan",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:County Galway - Cuan Chill Éinne - 20130916111102.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Inishmore_Killeany_round_tower.jpg",
+        "author": "Herbert Ortner",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inishmore Killeany round tower.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Arkin Castle (Site of)",
+    "region": "Inishmore",
+    "cluster": "Cill Éinne & The Monastic Shore (Inishmore)",
+    "lat": 53.10483,
+    "long": -9.66259,
+    "coord_precision": "precise",
+    "description": "Ruins of a Cromwellian fortification built upon an older O'Flaherty stronghold.",
+    "folklore": "Built during the reign of William III to defend against Dutch fishermen. Sir William Wilde in 1852 noted its massive walls. It remains a symbol of the \"alien faith\" and military presence that once dominated the harbor, with the village essentially serving the garrison's needs.",
+    "nature": "Limestone foundations overlooking the sheltered, sea-splashed bay.",
+    "icon_type": "castle_ruin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Arkin%27s_Castle.JPG",
+        "author": "Ronan Mac Giollapharaic",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Arkin's Castle.JPG"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/County_Galway_-_Arkin%27s_Castle_-_20130916111523.jpg",
+        "author": "KevForkan",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:County Galway - Arkin's Castle - 20130916111523.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Tobar Éinne (St. Enda's Well)",
+    "region": "Inishmore",
+    "cluster": "Cill Éinne & The Monastic Shore (Inishmore)",
+    "lat": 53.10334,
+    "long": -9.66397,
+    "coord_precision": "precise",
+    "description": "A holy well dedicated to the island’s patron, located south of the main village.",
+    "folklore": "Still a vital site of pilgrimage. Local tradition holds the water never fails. Nearby, the faint traces of Clochán Éinne mark the site where the saint lived in ascetic seclusion. Informants like Beartla recall the persistence of rituals here even as modern life encroached.",
+    "nature": "Karst pavement surrounding a natural spring; home to maiden-hair ferns.",
+    "icon_type": "holy_well",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/St_Endas_Monastery.JPG",
+        "author": "Ronan Mac Giollapharaic",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:St Endas Monastery.JPG"
+      }
+    ]
+  },
+  {
+    "name": "An Suicín",
+    "region": "Inishmore",
+    "cluster": "Cill Éinne & The Monastic Shore (Inishmore)",
+    "lat": 53.12442,
+    "long": -9.67242,
+    "coord_precision": "precise",
+    "description": "A derelict area south of Joe Watty’s pub, formerly a crowded terrace of cottages.",
+    "folklore": "Derived from a name for a \"marshy patch\" or \"swallow-hole.\" This was the poorest quarter of Cill Éinne, where a hundred people once lived in a few long terraces. By the late 20th century, only two fragments of these one-room cottages remained, inhabited by a woman who famously disputed with the wind.",
+    "nature": "Damp limestone depression with seasonal marsh characteristics.",
+    "icon_type": "village_settlement",
+    "images": []
+  },
+  {
+    "name": "St. Thomas’s Church (Ruins)",
+    "region": "Inishmore",
+    "cluster": "Cill Éinne & The Monastic Shore (Inishmore)",
+    "lat": 53.12198,
+    "long": -9.66881,
+    "coord_precision": "precise",
+    "description": "An empty, roofless shell of a Protestant church near the rectory.",
+    "folklore": "A stark reminder of seventy years of barren ministry. The roof was removed in 1921 to avoid paying rates, an act of practical necessity that nonetheless symbolized the final departure of the \"alien\" Protestant authority from the island’s religious landscape.",
+    "nature": "Limestone shell standing amidst a \"sheltery backwater\" of the town.",
+    "icon_type": "church_monastic",
+    "images": []
+  },
+  {
+    "name": "Teampall Bheanáin",
+    "region": "Inishmore",
+    "cluster": "Cill Éinne & The Monastic Shore (Inishmore)",
+    "lat": 53.10239,
+    "long": -9.66621,
+    "coord_precision": "precise",
+    "description": "A tiny, high-altitude oratory dedicated to St. Benan.",
+    "folklore": "Cited as one of the smallest churches in Europe, it is oriented North-South rather than East-West. Benan was a disciple of St. Patrick. Its position on the ridge provided a lookout for the monastic community against sea-borne raiders.",
+    "nature": "Perched on a high karst ridge; home to rose-beetles (Cetonia aurata).",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Inishmore_Teampall_Bheanain.jpg",
+        "author": "Herbert Ortner",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inishmore Teampall Bheanain.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Teampull_Bhean%C3%A1in.jpg",
+        "author": "Guilhem Boyer",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Teampull Bheanáin.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Teampull_Bhean%C3%A1in2.jpg",
+        "author": "Aiden Clarke",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Teampull Bheanáin2.jpg"
+      }
+    ]
+  },
+  {
+    "name": "An Chreig Dhubh (The Black Crag)",
+    "region": "Inishmore",
+    "cluster": "Cill Éinne & The Monastic Shore (Inishmore)",
+    "lat": 53.111624,
+    "long": -9.675941,
+    "coord_precision": "precise",
+    "description": "A vast, dark terrace of limestone pavement.",
+    "folklore": "Noted for its \"lugubrious\" appearance. Local man Beartla commented that the Cill Rónáin men were disgraced for not reclaiming this \"wasteland\" instead of spending their days lying under walls.",
+    "nature": "Pure karst pavement; an \"imbricated\" landscape of deep grykes.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "Poll na bPéist (The Worm Hole)",
+    "region": "Inishmore",
+    "cluster": "Barr Aille, The Southern Cliffs & Geological Wonders (Inishmore)",
+    "lat": 53.121597,
+    "long": -9.754785,
+    "coord_precision": "precise",
+    "description": "A perfectly rectangular natural pool cut into the limestone.",
+    "folklore": "Known as the \"Pool of the Sea-Monsters.\" Folklore suggests it was the lair of giant serpents. Geologically, it is a masterpiece of joint-intersection, where the sea has quarried out a massive block along vertical and horizontal lines.",
+    "nature": "Sea-filled cavern with walls of tiered limestone beds.",
+    "icon_type": "cliff_coast",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Poll_na_bP%C3%A9ist.jpg",
+        "author": "Paucabot",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Poll na bPéist.jpg"
+      }
+    ]
+  },
+  {
+    "name": "An Sundaó (The South Sound)",
+    "region": "Inishmore",
+    "cluster": "Barr Aille, The Southern Cliffs & Geological Wonders (Inishmore)",
+    "lat": 53.08691371184522,
+    "long": -9.627971649169924,
+    "coord_precision": "zona",
+    "description": "The stretch of water between Inishmore and the southern isles.",
+    "folklore": "Robinson describes the \"terrors of a Vesuvian eruption\" that must have torn these islands apart, creating this deep sound.",
+    "nature": "Deep Atlantic channel with heavy currents and grey seals.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "Mainistir Farm",
+    "region": "Inishmore",
+    "cluster": "Mainistir, Gort na gCapall & The Interior (Inishmore)",
+    "lat": 53.13026,
+    "long": -9.685804,
+    "coord_precision": "precise",
+    "description": "A fertile farmstead near the ancient monastic ruins.",
+    "folklore": "The \"ground zero\" of the Land War on Aran. In 1879, Pat Ganly and his mother were evicted from here. The farm was then given to Reverend Kilbride, inciting a decade of \"twilight deeds,\" including the stabbing of Charde’s cattle and the burning of the rent office.",
+    "nature": "Deep soil compared to the surrounding karst; good for rye and potatoes.",
+    "icon_type": "building",
+    "images": []
+  },
+  {
+    "name": "Leaba Rónáin (St. Ronan's Bed)",
+    "region": "Inishmore",
+    "cluster": "Mainistir, Gort na gCapall & The Interior (Inishmore)",
+    "lat": 53.124332,
+    "long": -9.669836,
+    "coord_precision": "precise",
+    "description": "A square plot delimited by a low wall in the Mainistir graveyard.",
+    "folklore": "Site of the \"sleep-cure\" for lameness on August 15th. In 1947, Fr. Killeen cleared the area of elderberry bushes to allow processions. Local man Dara the Postman recalled the superstition that cutting the \"limb of St. Ronan\" (the elder tree) would bring a stroke.",
+    "nature": "Enclosure with a cross-inscribed stone; shaded by elderberry.",
+    "icon_type": "church_monastic",
+    "images": []
+  },
+  {
+    "name": "Gort na gCapall",
+    "region": "Inishmore",
+    "cluster": "Mainistir, Gort na gCapall & The Interior (Inishmore)",
+    "lat": 53.12385,
+    "long": -9.741706,
+    "coord_precision": "precise",
+    "description": "The \"Field of the Horses\" townland.",
+    "folklore": "Birthplace of Liam O'Flaherty. During the 1920 Black and Tan raids, Thomas Fleming and other Volunteers drilled on these roads, much to the annoyance of \"Johnston himself,\" a local supporter of the Crown.",
+    "nature": "Characterized by high stone walls and imbricated karst boulders.",
+    "icon_type": "village_settlement",
+    "images": []
+  },
+  {
+    "name": "Creig Dhubh (Mainistir)",
+    "region": "Inishmore",
+    "cluster": "Mainistir, Gort na gCapall & The Interior (Inishmore)",
+    "lat": 53.13026,
+    "long": -9.685804,
+    "coord_precision": "precise",
+    "description": "The \"Black Crag\" near the monastery.",
+    "folklore": "Described as \"lugubrious\" by Robinson. It was across this desolate landscape that the Land Leaguers would move at night to perform their \"twilight deeds.\"",
+    "nature": "Dark, glaciated limestone; visually desolate.",
+    "icon_type": "church_monastic",
+    "images": []
+  },
+  {
+    "name": "Caisleán Uí Bhriain",
+    "region": "Inisheer",
+    "cluster": "The Southern Isle (Inisheer)",
+    "lat": 53.062056,
+    "long": -9.51918,
+    "coord_precision": "precise",
+    "description": "The tower-house within Dún Formna.",
+    "folklore": "The stronghold of the O'Briens, who ruled the islands until the late 16th century. Its ruin stands as a testament to the O'Flaherty/O'Brien conflicts for control of the Atlantic trade routes.",
+    "nature": "Massive drystone and mortar masonry.",
+    "icon_type": "castle_ruin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/OBrien_fort_Inisheer_2013.JPG",
+        "author": "Laurel Lodged",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:OBrien fort Inisheer 2013.JPG"
+      }
+    ]
+  },
+  {
+    "name": "Cill Ghobnait",
+    "region": "Inisheer",
+    "cluster": "The Southern Isle (Inisheer)",
+    "lat": 53.065947,
+    "long": -9.529214,
+    "coord_precision": "precise",
+    "description": "A small 8th-century church dedicated to St. Gobnet.",
+    "folklore": "Features a narrow lintelled West door and a tiny East window. Nearby are early graves and the remains of a clochán.",
+    "nature": "Situated in a quiet limestone depression.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/County_Galway_-_St._Gobnet%27s_Church_%28Kilgobnet%29_Innisheer_-_20170729172235.jpg",
+        "author": "Eskerroe",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:County Galway - St. Gobnet's Church (Kilgobnet) Innisheer - 20170729172235.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Altar_Stone_-_Cill_Ghobnait_-_geograph.org.uk_-_2705107.jpg",
+        "author": "louise price",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Altar Stone - Cill Ghobnait - geograph.org.uk - 2705107.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Cill_Ghobnait%2C_Inis_O%C3%ADrr_-_geograph.org.uk_-_2622937.jpg",
+        "author": "louise price",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cill Ghobnait, Inis Oírr - geograph.org.uk - 2622937.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Cnoc Raithní",
+    "region": "Inisheer",
+    "cluster": "The Southern Isle (Inisheer)",
+    "lat": 53.065032,
+    "long": -9.523241,
+    "coord_precision": "precise",
+    "description": "A Bronze-Age tumulus (c. 1600-1400 B.C.).",
+    "folklore": "Translated as the \"Hill of Ferns.\" In 1885, shifting sands uncovered two urn-burials, providing evidence of prehistoric habitation on the island.",
+    "nature": "A mound of sand and stone near the shore.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Inisheer_Cnoc_Raithn%C3%AD.jpg",
+        "author": "Karie Kuiper",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer Cnoc Raithní.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Inisheer_cnoc_raithni_20230529_1.jpg",
+        "author": "Z thomas",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer cnoc raithni 20230529 1.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Inisheer_cnoc_raithni_20230529_2.jpg",
+        "author": "Z thomas",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer cnoc raithni 20230529 2.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Inisheer Lighthouse",
+    "region": "Inisheer",
+    "cluster": "The Southern Isle (Inisheer)",
+    "lat": 53.046272,
+    "long": -9.526293,
+    "coord_precision": "precise",
+    "description": "A tall stone tower built in 1857.",
+    "folklore": "Automated in 1978. Its construction brought \"outsiders\" to the island, including the smithy Tí Smith, influencing the local social structure.",
+    "nature": "Overlooking the An Sundaó (South Sound).",
+    "icon_type": "building",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Inisheer_lighthouse.jpg",
+        "author": "Biscit at English Wikipedia",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer lighthouse.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Inisheer_lighthouse_%282%29.jpg",
+        "author": "G.Mannaerts",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer lighthouse (2).jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Inisheer_-_The_Lighthouse_%5E_out_buildings_-_geograph.org.uk_-_5611689.jpg",
+        "author": "Colin Park",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer - The Lighthouse ^ out buildings - geograph.org.uk - 5611689.jpg"
+      }
+    ]
+  },
+  {
+    "name": "An Uamhain (Inis Oírr)",
+    "region": "Inisheer",
+    "cluster": "The Southern Isle (Inisheer)",
+    "lat": 53.057560039486816,
+    "long": -9.518280029296877,
+    "coord_precision": "precise",
+    "description": "A small cave with a legendary connection to Inishmore.",
+    "folklore": "Folklore tells of a piper who entered here and emerged in Inis Meáin; his music was said to be heard under Carraig an Phíobaire.",
+    "nature": "Dark opening in the karst pavement.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Feidin_wall_on_Inis_O%C3%ADrr_-_geograph.org.uk_-_2634519.jpg",
+        "author": "louise price",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Feidin wall on Inis Oírr - geograph.org.uk - 2634519.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Thatched_shed_on_Inis_O%C3%ADrr_-_geograph.org.uk_-_2634534.jpg",
+        "author": "louise price",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Thatched shed on Inis Oírr - geograph.org.uk - 2634534.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Buaile Glas",
+    "region": "Inisheer",
+    "cluster": "The Southern Isle (Inisheer)",
+    "lat": 53.050282,
+    "long": -9.516971,
+    "coord_precision": "precise",
+    "description": "The \"Green Pasture.\"",
+    "folklore": "Features traces of a surrounding wall; \"Glas\" refers to its perennial green color amidst the gray rock.",
+    "nature": "A verdant pocket of machair grass.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "Cill na Seacht nIníon",
+    "region": "Inisheer",
+    "cluster": "The Southern Isle (Inisheer)",
+    "lat": 53.05724,
+    "long": -9.518409,
+    "coord_precision": "precise",
+    "description": "Church of the Seven Daughters.",
+    "folklore": "Remains of an old monastic foundation with a cashel wall, altar, and cross-inscribed stones.",
+    "nature": "Remote eastern site; very peaceful.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Cill_na_Seacht_Nini%C3%B3n_-_Inis_O%C3%ADrr_-_geograph.org.uk_-_3553806.jpg",
+        "author": "louise price",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cill na Seacht Ninión - Inis Oírr - geograph.org.uk - 3553806.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Béal an Chalaidh",
+    "region": "Inisheer",
+    "cluster": "The Southern Isle (Inisheer)",
+    "lat": 53.052084,
+    "long": -9.539497,
+    "coord_precision": "precise",
+    "description": "The \"Mouth of the Landing Place.\"",
+    "folklore": "A gap or entry point in the landscape near the traditional harbor.",
+    "nature": "A rocky passage between field walls.",
+    "icon_type": "cliff_coast",
+    "images": []
+  },
+  {
+    "name": "Poll Loige Buí",
+    "region": "Inisheer",
+    "cluster": "The Southern Isle (Inisheer)",
+    "lat": 53.049725,
+    "long": -9.519447,
+    "coord_precision": "precise",
+    "description": "The \"Pool of the Yellow Hollow.\"",
+    "folklore": "A coastal pool near the Loig Bhuí depression.",
+    "nature": "Deep seawater pool.",
+    "icon_type": "cliff_coast",
+    "images": []
+  },
+  {
+    "name": "Teampall Chaomhán",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.063871,
+    "long": -9.514034,
+    "coord_precision": "precise",
+    "description": "A 10th-century church dedicated to St. Caomhán, brother of St. Kevin of Glendalough. The nave is a later Medieval addition.",
+    "folklore": "Partially buried by drifting sands for centuries, the church required constant excavation. St. Caomhán is a central figure in island hagiography; a huge kitchen midden of seashells nearby dates back to Early Christian times, suggesting long-term ritual habitation.",
+    "nature": "Set within coastal dunes; the surrounding sand-system is stabilized by marram grass.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/County_Galway_-_St._Cavan%27s_Church_Innisheer_-_20170726174908.jpg",
+        "author": "Eskerroe",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:County Galway - St. Cavan's Church Innisheer - 20170726174908.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/County_Galway_-_Tempall_Chaomh%C3%A1in_-_20170726175140.jpg",
+        "author": "Eskerroe",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:County Galway - Tempall Chaomháin - 20170726175140.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Cill Ghobnait",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.065947,
+    "long": -9.529214,
+    "coord_precision": "precise",
+    "description": "A small, early (8th or 9th century) church dedicated to St. Gobnet of Ballyvourney. Features a narrow lintelled West door.",
+    "folklore": "Located near Early Historic graves and the remains of a clochán (stone cell). It represents the spread of the Cult of Gobnet from the mainland to the islands during the monastic expansion.",
+    "nature": "Surrounded by limestone terraces and early botanical remnants of monastic gardening.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/County_Galway_-_St._Gobnet%27s_Church_%28Kilgobnet%29_Innisheer_-_20170729172235.jpg",
+        "author": "Eskerroe",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:County Galway - St. Gobnet's Church (Kilgobnet) Innisheer - 20170729172235.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Altar_Stone_-_Cill_Ghobnait_-_geograph.org.uk_-_2705107.jpg",
+        "author": "louise price",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Altar Stone - Cill Ghobnait - geograph.org.uk - 2705107.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Cill_Ghobnait%2C_Inis_O%C3%ADrr_-_geograph.org.uk_-_2622937.jpg",
+        "author": "louise price",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cill Ghobnait, Inis Oírr - geograph.org.uk - 2622937.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Cnoc Raithní",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.065032,
+    "long": -9.523241,
+    "coord_precision": "precise",
+    "description": "Hill of Ferns, a Bronze-Age tumulus (c. 1600-1400 B.C.) located in the sandy dunes.",
+    "folklore": "In 1885, as the sands shifted, two urn-burials were uncovered. This discovery provided the first archaeological proof of prehistoric habitation on the island, coinciding with a period of intense famine relief works.",
+    "nature": "A mound of ferns and sand; Robinson notes the presence of the \"rose-beetle\" (Cetonia aurata) in this vicinity.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Inisheer_Cnoc_Raithn%C3%AD.jpg",
+        "author": "Karie Kuiper",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer Cnoc Raithní.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Inisheer_cnoc_raithni_20230529_1.jpg",
+        "author": "Z thomas",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer cnoc raithni 20230529 1.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Inisheer_cnoc_raithni_20230529_2.jpg",
+        "author": "Z thomas",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer cnoc raithni 20230529 2.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Cill na Seacht nIníon",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.05724,
+    "long": -9.518409,
+    "coord_precision": "precise",
+    "description": "Church of the Seven Daughters, the remains of an old monastic foundation with a cashel wall and altar.",
+    "folklore": "An ecclesiastical site of high significance; foundations of multiple buildings and cross-inscribed stones remain. It is the spiritual counterpart to the Seven Churches of Inishmore, highlighting the archipelago's monastic network.",
+    "nature": "Nestled within ancient stone enclosures that protect specialized karst flora from grazing.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Cill_na_Seacht_Nini%C3%B3n_-_Inis_O%C3%ADrr_-_geograph.org.uk_-_3553806.jpg",
+        "author": "louise price",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cill na Seacht Ninión - Inis Oírr - geograph.org.uk - 3553806.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Caisleán Uí Bhriain",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.062056,
+    "long": -9.51918,
+    "coord_precision": "precise",
+    "description": "A 14th-century tower-house built within the walls of Dún Formna by the O'Briens.",
+    "folklore": "Occupied by the O'Briens until 1582 and later destroyed by Cromwellian forces in 1652. It is the most prominent landmark on the island’s skyline, symbolizing Gaelic lordship.",
+    "nature": "Constructed from local limestone, it is now a shell integrated into the prehistoric fort’s fabric.",
+    "icon_type": "castle_ruin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/OBrien_fort_Inisheer_2013.JPG",
+        "author": "Laurel Lodged",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:OBrien fort Inisheer 2013.JPG"
+      }
+    ]
+  },
+  {
+    "name": "The Plassy",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.055713,
+    "long": -9.503753,
+    "coord_precision": "precise",
+    "description": "A freighter wrecked on the rocks in 1960.",
+    "folklore": "Successive Atlantic storms have lifted the vessel five feet higher than normal high tides. It has become a modern folkloric landmark and a testament to the power of the sea on the Carraig na Finnise reef.",
+    "nature": "Rusted iron hull sitting atop the rocky storm beach, now part of the island's maritime ecology.",
+    "icon_type": "cliff_coast",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/On_the_Rocks%2C_Inisheer%2C_Aran_Islands_-2-_-_geograph.org.uk_-_637547.jpg",
+        "author": "Harold Strong",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:On the Rocks, Inisheer, Aran Islands -2- - geograph.org.uk - 637547.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Inisheer_Plassy-Coast.jpg",
+        "author": "Karie Kuiper",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer Plassy-Coast.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Inisheer_Plassy-View.jpg",
+        "author": "Karie Kuiper",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer Plassy-View.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Inisheer Lighthouse",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.046272,
+    "long": -9.526293,
+    "coord_precision": "precise",
+    "description": "A navigational tower built in 1857 and automated in 1978.",
+    "folklore": "Associated with the 1857 visit of the British Association, whose members, led by William Wilde, were pioneers in island ethnography. It marks the modernized maritime boundary of the island.",
+    "nature": "Situated on the \"back\" of the island, facing the South Sound and the Clare coast.",
+    "icon_type": "building",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Inisheer_lighthouse.jpg",
+        "author": "Biscit at English Wikipedia",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer lighthouse.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Inisheer_lighthouse_%282%29.jpg",
+        "author": "G.Mannaerts",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer lighthouse (2).jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Inisheer_-_The_Lighthouse_%5E_out_buildings_-_geograph.org.uk_-_5611689.jpg",
+        "author": "Colin Park",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inisheer - The Lighthouse ^ out buildings - geograph.org.uk - 5611689.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Buaile Glas",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.050282,
+    "long": -9.516971,
+    "coord_precision": "precise",
+    "description": "Green Pasture, a burial place with a trace of a surrounding wall.",
+    "folklore": "A consecrated or traditional burial ground used when larger cemeteries were inaccessible or for specific ritual groups.",
+    "nature": "A rare patch of verdant grass amidst the limestone pavement.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "Tobar Éinne",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.058051,
+    "long": -9.544697,
+    "coord_precision": "precise",
+    "description": "St. Enda’s Well, a site of active pilgrimage.",
+    "folklore": "Still visited for its curative waters. Robinson notes that while Clochán Éinne is nearby, only a trace of the saint's cell remains.",
+    "nature": "A natural spring issuing through a fissure in the limestone.",
+    "icon_type": "holy_well",
+    "images": []
+  },
+  {
+    "name": "Poll na gCaorach",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.063636,
+    "long": -9.505876,
+    "coord_precision": "precise",
+    "description": "The Hole of the Sheep.",
+    "folklore": "Traditionally a site where sheep were washed in sea-water or where livestock were lost during storm surges.",
+    "nature": "A deep coastal inlet or blow-hole.",
+    "icon_type": "cliff_coast",
+    "images": []
+  },
+  {
+    "name": "Port na Cille",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.06601962706001,
+    "long": -9.51390266418457,
+    "coord_precision": "precise",
+    "description": "The Port of the Church.",
+    "folklore": "The traditional landing place for those visiting the Seven Daughters' monastic site.",
+    "nature": "A natural harbor with clear access to the northern coastline.",
+    "icon_type": "cliff_coast",
+    "images": []
+  },
+  {
+    "name": "Trácht Each",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.068568,
+    "long": -9.534888,
+    "coord_precision": "precise",
+    "description": "The Strand of the Horses.",
+    "folklore": "Where horses were historically swum or washed in the salt water for health.",
+    "nature": "A sandy coastal stretch on the northern shore.",
+    "icon_type": "beach_strand",
+    "images": []
+  },
+  {
+    "name": "Áit an Chuain",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.065441,
+    "long": -9.543214,
+    "coord_precision": "precise",
+    "description": "The Place of the Haven.",
+    "folklore": "A sheltered location within the larger harbor area.",
+    "nature": "A quiet pocket of water protected from the prevailing winds.",
+    "icon_type": "cliff_coast",
+    "images": []
+  },
+  {
+    "name": "Scalp Áit an Chuain",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.065441,
+    "long": -9.543214,
+    "coord_precision": "precise",
+    "description": "The cleft associated with the haven.",
+    "folklore": "Used by fishermen to store equipment or shelter from sudden storms.",
+    "nature": "A geological fissure near the primary landing site.",
+    "icon_type": "cliff_coast",
+    "images": []
+  },
+  {
+    "name": "An Chuinnéog",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.057324,
+    "long": -9.549984,
+    "coord_precision": "precise",
+    "description": "The Churn, a churning sea-hole.",
+    "folklore": "Named for the way the tide foams within the cavity, resembling a butter churn.",
+    "nature": "A violent blow-hole that erupts during westerly gales.",
+    "icon_type": "cliff_coast",
+    "images": []
+  },
+  {
+    "name": "Béal an Chalaidh",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.052084,
+    "long": -9.539497,
+    "coord_precision": "precise",
+    "description": "The Mouth of the Landing Place.",
+    "folklore": "The entrance to the island's primary harbor.",
+    "nature": "A deep-water channel leading to the pier.",
+    "icon_type": "cliff_coast",
+    "images": []
+  },
+  {
+    "name": "Poll Loige Buí",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.049725,
+    "long": -9.519447,
+    "coord_precision": "precise",
+    "description": "The hole within the yellow hollow.",
+    "folklore": "A vertical sinkhole or \"swallow-hole\" that drains the hollow during heavy rain.",
+    "nature": "A deep karst pipe extending into the limestone.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "Caladh Thrá Caorach",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.059488,
+    "long": -9.506925,
+    "coord_precision": "precise",
+    "description": "The Landing Place of Sheep Strand.",
+    "folklore": "Where livestock were traditionally boated to the mainland.",
+    "nature": "A sheltered beach access with calm water.",
+    "icon_type": "cliff_coast",
+    "images": []
+  },
+  {
+    "name": "Trá Caorach",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.059488,
+    "long": -9.506925,
+    "coord_precision": "precise",
+    "description": "Sheep Strand.",
+    "folklore": "Used for washing sheep and as a collection point for kelp.",
+    "nature": "A broad sandy beach on the eastern side.",
+    "icon_type": "beach_strand",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Tra_Caorach_-_geograph.org.uk_-_4678273.jpg",
+        "author": "Gordon Hatton",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tra Caorach - geograph.org.uk - 4678273.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Gob na Cora",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.056053,
+    "long": -9.501479,
+    "coord_precision": "precise",
+    "description": "The Point of the Weir.",
+    "folklore": "Site of an ancient stone fish weir, visible at very low tides.",
+    "nature": "A coastal point with man-made stone remains.",
+    "icon_type": "cliff_coast",
+    "images": []
+  },
+  {
+    "name": "An Phoillín",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.059271,
+    "long": -9.541647,
+    "coord_precision": "precise",
+    "description": "The Little Pool.",
+    "folklore": "A seasonal wetland that attracts migratory wading birds.",
+    "nature": "A shallow depression in the karst that retains water.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "Creagán Ard",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.057917,
+    "long": -9.525822,
+    "coord_precision": "precise",
+    "description": "The High Little Rock.",
+    "folklore": "An elevated point of the limestone pavement offering views of the Clare coast.",
+    "nature": "A prominent karst outcrop.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "An Loch Mór",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.058585,
+    "long": -9.507989,
+    "coord_precision": "precise",
+    "description": "The Big Lake.",
+    "folklore": "The island's largest body of water, a brackish lagoon.",
+    "nature": "Supports a unique ecosystem of eels and saltwater-tolerant plants.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "Droim",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.059845,
+    "long": -9.52638,
+    "coord_precision": "precise",
+    "description": "The Ridge.",
+    "folklore": "A long, low limestone elevation running through the center of the island.",
+    "nature": "A fundamental geological feature of Inis Oírr.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "Pier of Inis Oírr",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.068386,
+    "long": -9.522406,
+    "coord_precision": "precise",
+    "description": "The primary point of contact with the mainland.",
+    "folklore": "Associated with the arrival of the Duras and Dun Aengus steamers in the early 20th century.",
+    "nature": "A heavy stone structure resistant to the North Sound's currents.",
+    "icon_type": "cliff_coast",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/376-0055-hinnerk-ruemenapf_inis-oirr.jpg",
+        "author": "Hinnerk Rümenapf (Hinnerk R)",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:376-0055-hinnerk-ruemenapf inis-oirr.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/376-0040-hinnerk-ruemenapf_inis-oirr.jpg",
+        "author": "Hinnerk Rümenapf (Hinnerk R)",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:376-0040-hinnerk-ruemenapf inis-oirr.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Rocky_shoreline_from_the_pier_-_geograph.org.uk_-_4678414.jpg",
+        "author": "Gordon Hatton",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rocky shoreline from the pier - geograph.org.uk - 4678414.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Signal Tower",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.060882,
+    "long": -9.519798,
+    "coord_precision": "precise",
+    "description": "A late 18th-century defensive structure.",
+    "folklore": "Part of a chain of towers built to watch for a French invasion during the Napoleonic Wars.",
+    "nature": "A square stone tower on a prominent coastal height.",
+    "icon_type": "castle_ruin",
+    "images": []
+  },
+  {
+    "name": "An Lurgain",
+    "region": "Inisheer",
+    "cluster": "Topographical and Folkloric Inventory (Inisheer)",
+    "lat": 53.065649,
+    "long": -9.524989,
+    "coord_precision": "precise",
+    "description": "The Long Slope.",
+    "folklore": "A significant geographical feature that defines the island’s northern aspect.",
+    "nature": "A long, steady limestone incline.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "Dún Eochla",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.127134,
+    "long": -9.699719,
+    "coord_precision": "precise",
+    "description": "A massive, multi-walled stone fort situated at the highest point of Inishmore in the Eochaill townland.",
+    "folklore": "Robinson notes it as a primary landmark for antiquarians. George Petrie visited in 1821 to document its \"Military Architecture,\" providing the first scientific discipline to Irish archaeology.",
+    "nature": "Positioned on a high limestone plateau with 360-degree visibility across the island’s terraced \"desert.\"",
+    "icon_type": "fort_dun",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Dun_Eochla_3.JPG",
+        "author": "Ronan Mac Giollapharaic",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dun Eochla 3.JPG"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dun_Eochla_Interior.jpg",
+        "author": "Ingo Mehling",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dun Eochla Interior.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Dun_Eochla_Stone_fort_on_Inishmore%2C_the_Aran_Islands_-_geograph.org.uk_-_2342166.jpg",
+        "author": "Roger Diel",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dun Eochla Stone fort on Inishmore, the Aran Islands - geograph.org.uk - 2342166.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Na Seacht dTeampaill (Seven Churches)",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.145902,
+    "long": -9.77763,
+    "coord_precision": "precise",
+    "description": "A monastic complex in Eoghanacht, consisting of ruined churches and domestic structures.",
+    "folklore": "Dedicated to St. Brecan. Despite the name, Robinson clarifies it consists of only two churches (Teampall Bhreacáin and Teampall an Phoill) and several peripheral ruins. It was a major pilgrimage site where stones were once \"miraculous.\"",
+    "nature": "Surrounded by limestone pavements and small fertile patches near the northern Atlantic coast.",
+    "icon_type": "church_monastic",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Minibus_approaching_Na_Seacht_dTeampaill_%28Seven_Churches%29%2C_near_Onaght%2C_Inishm%C3%B3r_%28%C3%81rainn%29%2C_Aran_Islands%2C_Co._Galway_-_geograph.org.uk_-_3634989.jpg",
+        "author": "P L Chadwick",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Minibus approaching Na Seacht dTeampaill (Seven Churches), near Onaght, Inishmór (Árainn), Aran Islands, Co. Galway - geograph.org.uk - 3634989.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Ford_minibus_by_Na_Seacht_dTeampaill_%28Seven_Churches%29%2C_near_Onaght%2C_Inishm%C3%B3r_%28%C3%81rainn%29%2C_Aran_Islands%2C_Co._Galway_-_geograph.org.uk_-_3635030.jpg",
+        "author": "P L Chadwick",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ford minibus by Na Seacht dTeampaill (Seven Churches), near Onaght, Inishmór (Árainn), Aran Islands, Co. Galway - geograph.org.uk - 3635030.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Mercedes_minibus_by_Na_Seacht_dTeampaill_%28Seven_Churches%29%2C_near_Onaght%2C_Inishm%C3%B3r_%28%C3%81rainn%29%2C_Aran_Islands%2C_Co._Galway_-_geograph.org.uk_-_3635007.jpg",
+        "author": "P L Chadwick",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mercedes minibus by Na Seacht dTeampaill (Seven Churches), near Onaght, Inishmór (Árainn), Aran Islands, Co. Galway - geograph.org.uk - 3635007.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Dún Eoghanachta",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.139926,
+    "long": -9.776854,
+    "coord_precision": "precise",
+    "description": "A perfectly circular stone fort located near the village of Eoghanacht.",
+    "folklore": "Named after the Eoghanachta clan of Munster. Robinson reflects on its culmination of the 1864 expedition where puffins \"forsook their native cliffs in sheer fright\" due to the cheers for the Queen.",
+    "nature": "Sits on a level limestone terrace; the base is surrounded by broken limestone fragments and specialized flora.",
+    "icon_type": "fort_dun",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Dun_Eoghanachta_1.JPG",
+        "author": "Ronan Mac Giollapharaic",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dun Eoghanachta 1.JPG"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ringfort_de_D%C3%BAn_Eoghanachta%2C_%C3%AEle_d%E2%80%99_Inishmore.jpg",
+        "author": "Jonathan Wilkins",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ringfort de Dún Eoghanachta, île d’ Inishmore.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Dun_Eoghanachta_-_geograph.org.uk_-_1426692.jpg",
+        "author": "Jonathan Wilkins",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dun Eoghanachta - geograph.org.uk - 1426692.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Cill Muirbhigh Barracks",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.132935,
+    "long": -9.757768,
+    "coord_precision": "precise",
+    "description": "A former Royal Irish Constabulary outpost in Cill Muirbhigh.",
+    "folklore": "Closed in 1887. Robinson details its closure as a sign of the \"condition of the west\" improving, following decades of agitating for better school buildings by Fr. O'Donoghue.",
+    "nature": "Located near the sheltered sandy bay of Cill Muirbhigh, away from the direct Atlantic gales.",
+    "icon_type": "building",
+    "images": []
+  },
+  {
+    "name": "Tobar Bhreacáin (St. Brecan's Well)",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.14615705129319,
+    "long": -9.777574539184572,
+    "coord_precision": "precise",
+    "description": "A holy well within the Na Seacht dTeampaill complex.",
+    "folklore": "Dedicated to the founder of the monastery; traditional prayer patterns involved healing rituals for pilgrims.",
+    "nature": "A natural spring issuing from a limestone fissure, often hosting moisture-loving mosses.",
+    "icon_type": "holy_well",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Teampall_Bhreac%C3%A1in%2C_Na_Seacht_dTeampaill_-_geograph.org.uk_-_4230106.jpg",
+        "author": "Ian Capper",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Teampall Bhreacáin, Na Seacht dTeampaill - geograph.org.uk - 4230106.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Leaba Rónáin (Rónán’s Bed)",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.124332,
+    "long": -9.669836,
+    "coord_precision": "precise",
+    "description": "A stone enclosure or \"bed\" in Mainistir, believed to be the saint's grave.",
+    "folklore": "Historically, locals slept in the \"leaba\" on the eve of the saint's day (August 15th). In 1947, Fr. Killeen cleared the site for a procession, felling an \"alder tree\" (the last saintly tree), which caused deep local resentment.",
+    "nature": "A square plot of four yards square, delimited by low walls, featuring a stone inscribed with a cross.",
+    "icon_type": "church_monastic",
+    "images": []
+  },
+  {
+    "name": "An Suicín (The Little Jobber)",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.124417,
+    "long": -9.672417,
+    "coord_precision": "precise",
+    "description": "A derelict area behind Joe Watty's pub, formerly the \"poorest quarter\" of the village.",
+    "folklore": "Derived from \"something that sucks\" (a marshy patch). Robinson identifies it as a place where the menfolk lounged at \"Coirnéal na mBréag\" (the corner of lies).",
+    "nature": "A damp, low-lying area with the decayed ends of thatched cottage rows still visible.",
+    "icon_type": "village_settlement",
+    "images": []
+  },
+  {
+    "name": "The Residence",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.123107,
+    "long": -9.740762,
+    "coord_precision": "zona",
+    "description": "A standard-design building from the 1880s nestled under a central peak.",
+    "folklore": "The birthplace of writer Breandán Ó hEithir in 1930. His father was a teacher from Co. Clare who married Liam O'Flaherty's sister from Gort na gCapall.",
+    "nature": "A sturdy stone structure typical of the Congested Districts Board (CDB) era of development.",
+    "icon_type": "building",
+    "images": []
+  },
+  {
+    "name": "Joe Watty’s Pub",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.12398403303228,
+    "long": -9.670886993408205,
+    "coord_precision": "precise",
+    "description": "A public house on the edge of Cill Rónáin, formerly obscure.",
+    "folklore": "Joe Watty himself died in 1975 (the same day as de Valera). He was known for standing in prayer for twenty minutes every day at the \"cair\" opposite the pub.",
+    "nature": "Located at a junction where the level coast road meets the steep hills of the interior.",
+    "icon_type": "pub_amenity",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Joe_Watty%27s_Bar_-_geograph.org.uk_-_6775796.jpg",
+        "author": "N Chadwick",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Joe Watty's Bar - geograph.org.uk - 6775796.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Joe_Watty%27s_Bar_-_geograph.org.uk_-_6775794.jpg",
+        "author": "N Chadwick",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Joe Watty's Bar - geograph.org.uk - 6775794.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Joe_Watty%27s_Bar_-_geograph.org.uk_-_6741134.jpg",
+        "author": "N Chadwick",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Joe Watty's Bar - geograph.org.uk - 6741134.jpg"
+      }
+    ]
+  },
+  {
+    "name": "An Chreig Dhubh (The Black Crag)",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.111624,
+    "long": -9.675941,
+    "coord_precision": "precise",
+    "description": "A vast terrace of limestone pavement in Eochaill.",
+    "folklore": "Islanders like \"Old Beartla\" considered it a disgrace that this wasteland was never reclaimed. Robinson describes it as a \"lugubrious\" and daunting \"desert.\"",
+    "nature": "A high, flat expanse of bare limestone with deep fissures (grikes) and extreme exposure.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "The \"Gap in the Wall\"",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.132524,
+    "long": -9.684565,
+    "coord_precision": "precise",
+    "description": "A specific breach in a field wall near the Cill Rónáin coast road.",
+    "folklore": "Site where Larry Beag was shot by a Black and Tan sniper with a telescopic sight while trying to sneak to Mass in 1920.",
+    "nature": "A typical agricultural gap, now serving as a somber historical marker of the War of Independence.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "Gort na gCapall",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.12385,
+    "long": -9.741706,
+    "coord_precision": "precise",
+    "description": "A field near the O'Flaherty house in the townland of the same name.",
+    "folklore": "Site where Black and Tans drilled on the road and in \"Johnston's big fields,\" to the annoyance of the local inhabitants.",
+    "nature": "Large, level fields representing some of the more fertile limestone-soil mixtures.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "An Gleannachán",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.1510708254643,
+    "long": -9.781522750854492,
+    "coord_precision": "zona",
+    "description": "A small valley or depression near Eoghanacht.",
+    "folklore": "Site of botanical interest during the 1864 expedition; Robinson notes it as a rare \"lush\" spot.",
+    "nature": "Features a unique microclimate supporting more vegetation than the open crags.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "Portmurvey (Port Muirbhigh)",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.131499,
+    "long": -9.749986,
+    "coord_precision": "precise",
+    "description": "A coastal inlet and pier.",
+    "folklore": "In 1857, excursionists including William Wilde and Samuel Ferguson landed here. Robinson notes the abundance of the \"handsome rose-beetle\" (Cetonia aurata).",
+    "nature": "A sandy-bottomed bay with low-lying dunes and \"sweetly mottled\" ferns in the rock chinks.",
+    "icon_type": "beach_strand",
+    "images": []
+  },
+  {
+    "name": "The \"Signal Tower\" Site",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.127402857772985,
+    "long": -9.702268838882448,
+    "coord_precision": "precise",
+    "description": "Location of a Napoleonic-era signal station on the heights.",
+    "folklore": "Part of the 18th-century coastal defense network; Robinson reflects on its strategic but desolate position.",
+    "nature": "High-elevation site with 360-degree views of the Atlantic and the Galway coast.",
+    "icon_type": "castle_ruin",
+    "images": []
+  },
+  {
+    "name": "An Suicín Thiar",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.124417,
+    "long": -9.672417,
+    "coord_precision": "precise",
+    "description": "The \"Western Suicín.\"",
+    "folklore": "A continuation of the marshy patch where water naturally collects from the Eochaill heights.",
+    "nature": "A damp hollow filled with rushes and water-loving vegetation.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "An Pholl Dubh",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.131829,
+    "long": -9.793157,
+    "coord_precision": "precise",
+    "description": "The Black Hole.",
+    "folklore": "A deep swallow-hole or cave entrance. Robinson notes these as sites where water \"sucks\" into the island's core.",
+    "nature": "Surrounded by ferns and often containing standing water after gales.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "An Carraig Mhór",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.14365761385411,
+    "long": -9.73388671875,
+    "coord_precision": "precise",
+    "description": "The Big Rock.",
+    "folklore": "A massive navigational hazard near the northern \"broken cliffs.\"",
+    "nature": "A massive limestone boulder partially submerged in the Atlantic.",
+    "icon_type": "cliff_coast",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Carraig_Fhuathach_-_geograph.org.uk_-_4226822.jpg",
+        "author": "Ian Capper",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Carraig Fhuathach - geograph.org.uk - 4226822.jpg"
+      }
+    ]
+  },
+  {
+    "name": "The \"Steamer\" Pier",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.119982,
+    "long": -9.665643,
+    "coord_precision": "precise",
+    "description": "The main landing point for the SS Duras.",
+    "folklore": "Robinson describes its construction as the \"transformation of the seaward aspect of Cill Rónáin.\"",
+    "nature": "A modern (late 19th-century) stone pier made of massive limestone.",
+    "icon_type": "cliff_coast",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Pier_House_-_geograph.org.uk_-_6781603.jpg",
+        "author": "N Chadwick",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pier House - geograph.org.uk - 6781603.jpg"
+      }
+    ]
+  },
+  {
+    "name": "The \"Minister's House\"",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.119982,
+    "long": -9.665643,
+    "coord_precision": "precise",
+    "description": "The old rectory in Cill Rónáin.",
+    "folklore": "Associated with Rev. Kilbride, who was described by locals as a \"bigot\" and a \"parson in council.\"",
+    "nature": "A large stone building set in its own grounds, now largely disused.",
+    "icon_type": "building",
+    "images": []
+  },
+  {
+    "name": "An Suicín Theas",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.124417,
+    "long": -9.672417,
+    "coord_precision": "precise",
+    "description": "The \"Southern Suicín.\"",
+    "folklore": "A continuation of the poor quarter where men gathered to \"exchange stories.\"",
+    "nature": "Known as the \"corner of lies\" (Coirnéal na mBréag).",
+    "icon_type": "village_settlement",
+    "images": []
+  },
+  {
+    "name": "The \"Post Office\" Hill",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.121288,
+    "long": -9.669438,
+    "coord_precision": "precise",
+    "description": "A rise in Cill Rónáin village.",
+    "folklore": "Location where islanders gathered to wait for news and mail from the SS Duras.",
+    "nature": "A paved rise in the built-up area of the village.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/An_Post%2C_Kilronan_-_geograph.org.uk_-_6741129.jpg",
+        "author": "N Chadwick",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:An Post, Kilronan - geograph.org.uk - 6741129.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/An_Post_-_geograph.org.uk_-_6775767.jpg",
+        "author": "N Chadwick",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:An Post - geograph.org.uk - 6775767.jpg"
+      }
+    ]
+  },
+  {
+    "name": "An Chreig Mhór (Sruthán)",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.142885,
+    "long": -9.76921,
+    "coord_precision": "precise",
+    "description": "The \"Great Crag\" of Sruthán.",
+    "folklore": "A massive expanse of limestone that served as a communal grazing area.",
+    "nature": "A high, flat terrace of limestone with deep, protective fissures.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "An Gort Glas (Mainistir)",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.13026,
+    "long": -9.685804,
+    "coord_precision": "precise",
+    "description": "The Green Field of Mainistir.",
+    "folklore": "A rare and precious fertile field near the monastery ruins.",
+    "nature": "Lush green grass protected by high stone walls.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "The \"Cairn\" of the Dead",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.132524,
+    "long": -9.684565,
+    "coord_precision": "precise",
+    "description": "A small mound near Log na Marbh.",
+    "folklore": "Believed to mark a specific grave from the 1584 O'Flaherty battle.",
+    "nature": "A small heap of stones weathered by time.",
+    "icon_type": "natural_feature",
+    "images": []
+  },
+  {
+    "name": "An Gort Mór (Fearann an Choirce)",
+    "region": "Inishmore",
+    "cluster": "Topographical and Folkloric Inventory (Inishmore)",
+    "lat": 53.130845,
+    "long": -9.727606,
+    "coord_precision": "precise",
+    "description": "The Large Field of the Hill Farm.",
+    "folklore": "One of the most fertile fields on the island, used for potato cultivation.",
+    "nature": "Level limestone soil with some clover.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Oatquarter-Fearann_an_Choirce_-_geograph.org.uk_-_4218323.jpg",
+        "author": "Ian Capper",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Oatquarter-Fearann an Choirce - geograph.org.uk - 4218323.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Dún Chonchúir (Fort of Conor)",
+    "region": "Inishmaan",
+    "cluster": "Topographic and Folkloric Inventory (Inis Meáin)",
+    "lat": 53.083419,
+    "long": -9.594797,
+    "coord_precision": "precise",
+    "description": "A massive, elliptical stone fort commanding the island’s highest pinnacle, characterized by monumental dry-stone terracing.",
+    "folklore": "Associated with the Fir Bolg, the site served as the setting for a legendary banquet in 1857. Seventy members of the British Association, led by Sir William Wilde acting as cicerone, celebrated the island's antiquities here. Wilde addressed the party upon the structures, though islanders reportedly told \"facetious stories\" about the monuments' origins.",
+    "nature": "The surrounding terrain is a \"Vesuvian\" landscape of massy, lava-colored limestone. The terraces provide a sense of \"Alpine grandeur,\" with the grey rock appearing nearly molten in its geological intensity.",
+    "icon_type": "fort_dun",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/D%C3%BAn_Chonch%C3%BAir6.jpg",
+        "author": "Paucabot",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dún Chonchúir6.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/D%C3%BAn_Chonch%C3%BAir2.jpg",
+        "author": "Paucabot",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dún Chonchúir2.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Inishmaan_-_Dun_Chonchuir_-_geograph.org.uk_-_7930995.jpg",
+        "author": "Colin Park",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inishmaan - Dun Chonchuir - geograph.org.uk - 7930995.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Synge’s Cottage (Teach Synge)",
+    "region": "Inishmaan",
+    "cluster": "Topographic and Folkloric Inventory (Inis Meáin)",
+    "lat": 53.084493,
+    "long": -9.592385,
+    "coord_precision": "precise",
+    "description": "A traditional thatched cottage that served as the residence and linguistic laboratory for playwright J.M. Synge.",
+    "folklore": "Nicknamed \"Ollscoil na Gaeilge\" (The University of Irish), it became a shrine for the Gaelic League. Figures like Pádraic Pearse and Fr. Eugene O’Growney stayed here. Lady Gregory, however, expressed a passionate \"galling jealousy\" of Synge’s deep connection to the islanders, wishing to be \"alone among the fishers.\"",
+    "nature": "The cottage is integrated into the \"labyrinth\" of thousands of field-walls and limestone terraces that define the central townlands.",
+    "icon_type": "building",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Teach_Synge_-_geograph.org.uk_-_3564513.jpg",
+        "author": "Oliver Dixon",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Teach Synge - geograph.org.uk - 3564513.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Cathaoir Synge (Synge’s Chair)",
+    "region": "Inishmaan",
+    "cluster": "Topographic and Folkloric Inventory (Inis Meáin)",
+    "lat": 53.083809,
+    "long": -9.612787,
+    "coord_precision": "precise",
+    "description": "A natural stone seat perched precariously on the edge of the western cliffs.",
+    "folklore": "This site represents Synge's \"matchless matching of place and person.\" Here, he observed island girls in their \"dull red\" petticoats, which he felt harmonized perfectly with the grey limestone. Lady Gregory’s own visits to these heights were marked by her envy of Synge’s aesthetic intimacy with the island.",
+    "nature": "Positioned above a vertical drop into the \"boisterous ocean,\" the site is frequently obscured by heavy marine spray and the roar of the Atlantic.",
+    "icon_type": "cliff_coast",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Inishmaan_-_Synge%27s_Chair_-_geograph.org.uk_-_7931012.jpg",
+        "author": "Colin Park",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inishmaan - Synge's Chair - geograph.org.uk - 7931012.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Poll an tSéideáin (The Puffing Hole)",
+    "region": "Inishmaan",
+    "cluster": "Topographic and Folkloric Inventory (Inis Meáin)",
+    "lat": 53.06652810862787,
+    "long": -9.608230590820314,
+    "coord_precision": "precise",
+    "description": "A dramatic natural blowhole formed by the relentless marine erosion of the limestone strata.",
+    "folklore": "Visitors often viewed this as an \"awfully sublime\" feature of the Romantic landscape. It represents the \"primitive\" power of the island that so fascinated 19th-century scholars and \"sentimental tourists.\"",
+    "nature": "Erosion has created a vertical shaft; during heavy swells, the Atlantic is forced through the rock, resulting in a towering plume of salt spray and air.",
+    "icon_type": "cliff_coast",
+    "main": true,
+    "images": []
+  },
+  {
+    "name": "Baile an Mhothair / Baile an Teampaill / Baile an Lorgain",
+    "region": "Inishmaan",
+    "cluster": "Topographic and Folkloric Inventory (Inis Meáin)",
+    "lat": 53.08535,
+    "long": -9.581281,
+    "coord_precision": "precise",
+    "description": "The primary, densely clustered townlands situated upon the limestone pavement.",
+    "folklore": "In 1893, these villages hosted the Haddon and Browne Anthropometric Laboratory. The researchers observed the \"Aranite\" face—long, oval, and well-marked—concluding the inhabitants were a \"pure\" race of primeval Gaelic stock.",
+    "nature": "Newcomers often react with \"consternation\" at the \"desert\" appearance of these settlements, where houses are built directly onto the bare, lava-colored rock of the terraces.",
+    "icon_type": "village_settlement",
+    "images": []
+  },
+  {
+    "name": "Dún Aonghasa",
+    "region": "Inishmore",
+    "cluster": "Dún Aonghasa & Kilmurvy (Inishmore)",
+    "lat": 53.125357250763216,
+    "long": -9.766588211059572,
+    "coord_precision": "precise",
+    "description": "The best-known prehistoric fort on the Aran Islands, set at the edge of a 100-metre vertical cliff on Inis Mór. Four concentric drystone walls enclose roughly 6 hectares. Initial construction dates to c. 1100 BC (Late Bronze Age); the triple-wall defences were likely added around 500 BC. A cheval de frise of upright limestone spikes planted in the bedrock surrounds the outer walls.",
+    "folklore": "The name means 'Fort of Aonghas', linking it to either the pre-Christian god Aengus or the mythical Fir Bolg king Aonghus mac Úmhór. Irish mythology holds that the Fir Bolg retreated to the Aran Islands after their defeat by the Tuatha Dé Danann at the First Battle of Moytura, and that Dún Aonghasa was their chief stronghold. An Iron Age bird-head fibula (brooch) was discovered in a wall in 1839, the earliest physical relic recovered from the site.",
+    "nature": "Clifftop karst landscape at 100m above the Atlantic. The cheval de frise is one of the best-preserved examples in Ireland or Britain. The surrounding plateau is classic Burren-type limestone pavement with grykes sheltering specialised flora.",
+    "icon_type": "fort_dun",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Inishmore_cliffs_at_Dun_Aengus.jpg",
+        "author": "Herbert Ortner",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inishmore_cliffs_at_Dun_Aengus.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/D%C3%BAn_Aonghusa_19_Aibre%C3%A1n_2009.JPG",
+        "author": "Dunlavin Green",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:D%C3%BAn_Aonghusa_19_Aibre%C3%A1n_2009.JPG"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Inis_Mor_-_Dun_Aengus_-_Chevaux_de_Frise.JPG",
+        "author": "Patrice78500",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inis_Mor_-_Dun_Aengus_-_Chevaux_de_Frise.JPG"
+      }
+    ]
+  },
+  {
+    "name": "Ireland West Airport Knock",
+    "region": "Mayo",
+    "cluster": "",
+    "lat": 53.9103,
+    "long": -8.8185,
+    "coord_precision": "precise",
+    "description": "Ireland's largest regional airport outside Dublin and Cork, built on bogland in County Mayo at an elevation of 168 metres \u0014 unusually high for any airport. Opened in 1986, it was conceived and fundraised entirely by Monsignor James Horan, the local parish priest, against near-universal scepticism from government and engineers. It serves as the main air gateway for pilgrims to Knock Shrine and tourists heading to Connemara and the Aran Islands.",
+    "folklore": "Monsignor Horan raised the funds through parish collections and lobbying, calling the airport 'the miracle of the boglands'. He died in Lourdes in 1986, the very year it opened, never seeing its first scheduled flight. Locals say he went to his grave certain it would succeed.",
+    "nature": "Set at 168 m above sea level on the north Mayo boglands, making it one of the highest-elevation commercial airports in Western Europe. The surrounding peatland is characteristic of the western Irish uplands.",
+    "icon_type": "airport",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ireland_West_Airport_Knock_terminal.jpg",
+        "author": "Ultrasonic7",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ireland_West_Airport_Knock_terminal.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Knock Shrine",
+    "region": "Mayo",
+    "cluster": "Knock (Mayo)",
+    "lat": 53.7924,
+    "long": -8.9172,
+    "coord_precision": "precise",
+    "description": "Ireland's national Marian pilgrimage site, established after fifteen villagers reported a silent apparition of the Virgin Mary, Saint Joseph, and Saint John the Evangelist on the south gable of the parish church on the evening of 21 August 1879. Today the shrine attracts 1.5 million pilgrims annually and ranks alongside Lourdes and Fátima as one of Europe's major Marian sanctuaries. The complex includes five churches, the enclosed Apparition Chapel, basilica, museum, and 100 acres of pilgrim gardens.",
+    "folklore": "On that wet August night, fifteen witnesses of all ages watched two silent figures in white light for about two hours \u0014 no words were spoken, no messages given. A subsequent ecclesiastical commission found their testimonies 'trustworthy and satisfactory'. Pope John Paul II visited on the centenary in 1979.",
+    "nature": "The original apparition gable of the 19th-century parish church is now enclosed within the Apparition Chapel. The broader shrine grounds include chapels, a large open-air altar capable of hosting tens of thousands, and the annual August novena which is Ireland's largest Marian gathering.",
+    "icon_type": "church_monastic",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Knock_Basilica_exterior.jpg",
+        "author": "Altan46",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Knock_Basilica_exterior.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Westport",
+    "region": "Mayo",
+    "cluster": "Westport (Mayo)",
+    "lat": 53.8008,
+    "long": -9.5178,
+    "coord_precision": "precise",
+    "description": "One of Ireland's best-preserved planned Georgian towns, designed by architect James Wyatt in the late 18th century for the Browne family (Earls of Altamont). The town is built around the Carrowbeg River, which flows as a tree-lined canal through the main Mall. It is the main base for exploring Clew Bay, Croagh Patrick, and the islands of Clew Bay, and is consistently ranked among Ireland's most liveable towns.",
+    "folklore": "Westport House is said to stand on the foundations of a castle once belonging to Grace O'Malley (Gráinne Mhaol), the 16th-century pirate queen of Connacht who ruled the seas around Clew Bay from her fleet of galleys. The dungeons of the current house are said to follow the layout of her original prison.",
+    "nature": "Clew Bay, visible from the town, contains roughly 365 drumlins \u0014 one for each day of the year, according to local lore \u0014 formed by glacial deposition and now partially submerged. The bay is an important habitat for wading birds and seals.",
+    "icon_type": "village_settlement",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Westport_Mall.jpg",
+        "author": "Sxenko",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Westport_Mall.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Murrisk",
+    "region": "Mayo",
+    "cluster": "Croagh Patrick & Murrisk (Mayo)",
+    "lat": 53.77934455065306,
+    "long": -9.640159606933596,
+    "coord_precision": "precise",
+    "description": "A small village at the foot of Croagh Patrick on the southern shore of Clew Bay, and the traditional starting point for the pilgrimage climb of the mountain. The ruins of Murrisk Abbey (Augustinian, founded 1457) stand at the water's edge. The village is also the location of the National Famine Memorial bronze sculpture by John Behan.",
+    "folklore": "Murrisk Abbey was founded by the O'Malley clan \u0014 the same family as the pirate queen Grace O'Malley \u0014 and several O'Malleys are buried in its grounds. The abbey was suppressed during the Reformation but its ruins retain fine carved stonework on the east window.",
+    "nature": "The shoreline at Murrisk offers sweeping views across Clew Bay toward Achill Island. At low tide the tidal flats are rich in wading birds. The bay's drumlin islands are a distinctive post-glacial landscape.",
+    "icon_type": "church_monastic",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Murrisk_Abbey.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Murrisk_Abbey.jpg"
+      }
+    ]
+  },
+  {
+    "name": "National Famine Memorial",
+    "region": "Mayo",
+    "cluster": "Croagh Patrick & Murrisk (Mayo)",
+    "lat": 53.7802,
+    "long": -9.6397,
+    "coord_precision": "precise",
+    "description": "A large bronze sculpture by artist John Behan, unveiled by President Mary Robinson in 1997 on the shore of Clew Bay at Murrisk. The work depicts a coffin ship \u0014 the cramped, disease-ridden vessels that carried starving emigrants from Ireland during the Great Famine of 1845\u001352 \u0014 with skeletal figures tangled in the rigging, representing the hundreds of thousands who died on the crossing. It stands in view of Croagh Patrick, Ireland's holy mountain.",
+    "folklore": "The 'coffin ships' were overcrowded and poorly provisioned; mortality rates on some crossings exceeded 30%. Many vessels departing from Westport and nearby ports were headed for Canada and the United States. The inscription at the base reads: 'Dedicated to the memory of all those who left these shores during the Great Famine 1845\u00131852.'",
+    "nature": "The memorial stands metres from the water's edge on Clew Bay, with direct views toward Croagh Patrick rising behind it. The shoreline at this point is a shallow tidal estuary used by wading birds.",
+    "icon_type": "natural_feature",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/National_Famine_Monument_Murrisk.jpg",
+        "author": "Velela",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:National_Famine_Monument_Murrisk.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Croagh Patrick",
+    "region": "Mayo",
+    "cluster": "Croagh Patrick & Murrisk (Mayo)",
+    "lat": 53.76,
+    "long": -9.6595,
+    "coord_precision": "precise",
+    "description": "Ireland's holiest mountain, a quartzite peak rising 764 metres above Clew Bay in County Mayo. Saint Patrick is said to have fasted on its summit for forty days in 441 AD. Every year on Reek Sunday (last Sunday in July), up to 25,000 pilgrims climb barefoot as an act of penance \u0014 a tradition continuous since the early medieval period. On a clear day the summit commands views of over 100 drumlins in Clew Bay and, on exceptional days, as far as the Twelve Bens of Connemara.",
+    "folklore": "Patrick is said to have banished the snakes of Ireland from this summit \u0014 standing at the southern precipice, he rang his bell and every serpent and venomous creature cast itself over the cliff edge. Earlier still, the mountain was a site of the pre-Christian harvest festival of Lughnasadh, held in honour of the god Lugh.",
+    "nature": "The mountain's quartzite cone is one of the most distinctive profiles in Ireland. The western flanks above 500 m are covered in scree; the summit plateau is bare rock. The upper slopes are an internationally recognised archaeological landscape, with evidence of Bronze Age ritual activity predating the Christian associations.",
+    "icon_type": "natural_feature",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Croagh_Patrick_2016.jpg",
+        "author": "Wojciech GBowacki",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Croagh_Patrick_2016.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Croagh_Patrick_in_2002.jpg",
+        "author": "Rob Hurson",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Croagh_Patrick_in_2002.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Doo Lough",
+    "region": "Mayo",
+    "cluster": "Doolough (Mayo)",
+    "lat": 53.662044697842106,
+    "long": -9.772253036499025,
+    "coord_precision": "precise",
+    "description": "A dark, glacially-carved lake set between the Mweelrea and Sheeffry Hill ranges in remote southwest Mayo, often called one of the most dramatic landscapes in Ireland. The Doolough Pass road above the lake's eastern shore is the site of the Doolough Tragedy of March 1849, when hundreds of starving Famine victims walked here in snow and rain seeking poor law relief \u0014 who were turned away. At least seven bodies were found on the roadside afterwards. An annual Famine Walk and a memorial cross at the lakeshore commemorate the event.",
+    "folklore": "A stone monument beside the lake carries the inscription from Mahatma Gandhi: 'How can men feel themselves honoured by the humiliation of their fellow beings?' The words were chosen because Gandhi had cited the Irish Famine as an example of colonial violence. The annual walk in late April follows the same road the famine victims walked in 1849.",
+    "nature": "Doo Lough (Dúloch, 'black lake') sits at around 30 m above sea level and is over 5 km long. It is extremely deep and oligotrophic, with dark peaty water draining from the bogs above. The surrounding valley is one of the least developed landscapes in Ireland, with Mweelrea (Connacht's highest mountain at 814 m) rising to the west.",
+    "icon_type": "natural_feature",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Doolough_Valley_Mayo.jpg",
+        "author": "Nigel Borrington",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Doolough_Valley_Mayo.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Leenaun",
+    "region": "Connemara",
+    "cluster": "Killary Fjord & Leenaun (Connemara)",
+    "lat": 53.59661078865513,
+    "long": -9.695091247558596,
+    "coord_precision": "precise",
+    "description": "A tiny village at the head of Killary Harbour, Ireland's only true fjord, where County Galway meets County Mayo. Leenaun achieved fame as the setting for Jim Sheridan's 1990 film 'The Field', starring Richard Harris, based on John B. Keane's play about land and identity in the west of Ireland. The village is surrounded by the Maumturk Mountains to the south and Ben Gorm to the north.",
+    "folklore": "John B. Keane's 'The Field' reflects the deep Irish connection between land, memory, and identity forged during and after the Famine. A farmer who has rented, fertilised and tended a field for decades is outbid by an American \u0014 the play ends in violence. The film was shot in Leenaun and surroundings in 1989.",
+    "nature": "Leenaun sits at the inner end of Killary Harbour. The Erriff River, which drains the Partry Mountains, enters the fjord here and is one of Ireland's best salmon rivers. The mountain walls on both sides rise steeply from sea level, giving the village a deeply enclosed, dramatic character.",
+    "icon_type": "village_settlement",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Leenane_village_and_Killary_Harbour.jpg",
+        "author": "Velela",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Leenane_village_and_Killary_Harbour.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Killary Harbour",
+    "region": "Connemara",
+    "cluster": "Killary Fjord & Leenaun (Connemara)",
+    "lat": 53.60345747804099,
+    "long": -9.760558605194094,
+    "coord_precision": "zona",
+    "description": "Ireland's only fjord \u0014 a 16-kilometre-long glacially-carved sea inlet on the border of Counties Galway and Mayo. It reaches depths of over 45 metres at its centre. The southern shore is in County Galway; the northern shore, dominated by Mweelrea (Connacht's highest peak at 814 m), is in County Mayo. A mussel farm operates in the sheltered mid-reach. Boat tours run along the fjord from Leenaun from spring to autumn.",
+    "folklore": "The Irish name An Caoláire Rua means 'the red fjord' — a reference some say to the reddish hue the water takes at sunset, and others to an old story about a battle whose blood turned the waters red. The fjord was used as a sheltered anchorage by smugglers running contraband between the west coast and the continent in the 18th century.",
+    "nature": "A true fjord formed by glacial scouring during the last ice age, the harbour is deeper than much of the adjacent continental shelf. The mussel-farming operation takes advantage of the clean, fast-flowing tidal water. The mountain walls on both sides are nesting sites for peregrine falcons and ravens.",
+    "icon_type": "cliff_coast",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Killary_Harbour_from_above.jpg",
+        "author": "Joseph Mischyshyn",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Killary_Harbour_from_above.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Maam Cross",
+    "region": "Connemara",
+    "cluster": "Connemara Heartland",
+    "lat": 53.454936292751796,
+    "long": -9.54093933105469,
+    "coord_precision": "precise",
+    "description": "A crossroads settlement in the heart of Connemara at the intersection of the N59 and the road to Maam valley, surrounded by bog, mountains, and the Maumturk range. The location is perhaps most famous as a principal filming site for John Ford's 1952 film 'The Quiet Man', starring John Wayne and Maureen O'Hara. The surrounding landscape of bog, lough, and mountain is quintessential Connemara.",
+    "folklore": "John Ford brought John Wayne and Maureen O'Hara here to film 'The Quiet Man', using the area around Maam Cross and the nearby village of Cong as stand-ins for a romanticised Ireland. The film made this corner of Connacht internationally famous. The 'White O'Morn' cottage used in the film still stands nearby.",
+    "nature": "The crossroads lies on the edge of the Maumturk Mountains at roughly 50 m above sea level, surrounded by blanket bog and oligotrophic loughs. The area is within the Connemara LIFE Natura 2000 zone, notable for its intact Atlantic bog systems and upland heath.",
+    "icon_type": "village_settlement",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Connemara_landscape_near_Maam_Cross.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Connemara_landscape_near_Maam_Cross.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Carraroe Peninsula",
+    "region": "Connemara",
+    "cluster": "South Connemara (Galway)",
+    "lat": 53.26352816266637,
+    "long": -9.599819183349611,
+    "coord_precision": "zona",
+    "description": "A deeply indented peninsula in the Gaeltacht heartland of south Connemara, one of the most strongly Irish-speaking communities in Ireland. The Coral Strand (Trá an Dóilín) at the tip of the peninsula is formed almost entirely of maerl — a pink-white coralline algae — rather than sand, making it one of the most unusual beaches in Ireland. The landscape of low granite hills, numerous loughs, and Atlantic inlets is characteristic of the south Connemara 'drowned' coastline.",
+    "folklore": "The entire peninsula is Irish-speaking (Gaeltacht); Irish is the everyday language of home, shop, and school. Local storytellers (seanchaí) kept oral traditions alive here long after they died out elsewhere.",
+    "nature": "The Coral Strand is a Site of Community Importance under the EU Habitats Directive specifically for its maerl beds \u0014 the living alga forms delicate branched structures on the seabed and washes ashore over millennia. The surrounding coastline of south Connemara is a mosaic of bays, islands, and channels of international nature conservation importance.",
+    "icon_type": "village_settlement",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Coral_Strand_Carraroe.jpg",
+        "author": "Amanda Slater",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Coral_Strand_Carraroe.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Rossaveal Ferry Pier",
+    "region": "Connemara",
+    "cluster": "South Connemara (Galway)",
+    "lat": 53.26676634786404,
+    "long": -9.558030366897585,
+    "coord_precision": "precise",
+    "description": "The main ferry terminal for services to the Aran Islands from the Connemara mainland, located on the southern shore of Connemara at the end of the R336. Ferries from here reach Kilronan (Inishmore) in about 40 minutes \u0014 significantly faster than the Galway city route. The pier was developed specifically to serve the growing year-round Aran Island community and tourist traffic.",
+    "folklore": "The fishing village of Rossaveal (An Ros Muc) is part of the south Connemara Gaeltacht. The surrounding coastline was historically a centre of traditional currach fishing, and the currachs still in use on the Aran Islands trace their design directly to the Connemara tradition.",
+    "nature": "The pier opens onto Greatman's Bay (Cuan an Fhir Mhóir), a sheltered natural harbour used by fishing vessels and the Aran ferries. The bay is part of a European Special Area of Conservation for its seagrass beds and the harbour porpoise population using the bay.",
+    "icon_type": "village_settlement",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Rossaveel_pier.jpg",
+        "author": "Jonathon Nally",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rossaveel_pier.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Kilronan Pier",
+    "region": "Inishmore",
+    "cluster": "Kilronan & Killeany (Inishmore)",
+    "lat": 53.1178,
+    "long": -9.6666,
+    "coord_precision": "precise",
+    "description": "The main arrival point on Inishmore (Inis Mór) and the island's commercial hub. The pier in Kilronan (Cill Rónáin) receives all Aran Islands ferries from Rossaveal and Galway, as well as the island cargo boat. Behind the pier, Kilronan village has shops, cafés, a pub, bike hire, and pony-trap operators — the entire island infrastructure radiates outward from this point.",
+    "folklore": "Cill Rónáin means 'church of Rónán', a reference to Saint Rónán Finn, an early Christian monk associated with Inishmore. The island has been inhabited for at least 3,000 years and Kilronan's harbour has been the main point of connection with the mainland for all of that time.",
+    "nature": "The pier is one of the few sheltered landing points on the eastern side of Inishmore. Killeany Bay is a relatively calm, south-facing anchorage that provides protection from the prevailing westerlies. Grey seals are regularly seen hauled out on rocks near the pier entrance.",
+    "icon_type": "village_settlement",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kilronan_harbour_Inis_Mor.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kilronan_harbour_Inis_Mor.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Seal Colony",
+    "region": "Inishmore",
+    "cluster": "Dún Aonghasa & Kilmurvy (Inishmore)",
+    "lat": 53.13958767628419,
+    "long": -9.711399078369142,
+    "coord_precision": "precise",
+    "description": "A resident colony of grey Atlantic seals (Halichoerus grypus) on the northern shoreline of Inishmore, clearly signposted on the road between Kilmurvey and Dún Aonghasa. At low tide, a dozen or more seals haul out on the flat limestone rocks and small beach, with the mountains of Connemara as a backdrop. A small shelter has been established for visitors at the cliff-top viewpoint.",
+    "folklore": "The Irish west coast seals have long been associated with the mythological Selkies \u0014 shapeshifting creatures who are seals in the water and humans on land. Fishermen believed that harming a seal brought bad luck.",
+    "nature": "Grey seals (Halichoerus grypus) are the larger of the two seal species native to Ireland. Adults can weigh up to 235 kg. The colony on Inishmore's north coast is resident year-round, using the sheltered limestone ledges for resting and pupping in autumn.",
+    "icon_type": "natural_feature",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Grey_seals_on_rocks_Aran_Islands.jpg",
+        "author": "Eithne O'Brien",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Grey_seals_on_rocks_Aran_Islands.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Kilmurvey Beach",
+    "region": "Inishmore",
+    "cluster": "Dún Aonghasa & Kilmurvy (Inishmore)",
+    "lat": 53.13127866242147,
+    "long": -9.751052856445314,
+    "coord_precision": "precise",
+    "description": "A sheltered, Blue Flag sandy beach on the northern coast of Inishmore, a short walk from Dún Aonghasa. The beach faces north toward the mountains of Connemara across a stretch of clear, shallow water with extraordinary visibility. It is one of the most scenic beaches on the Aran Islands and is rarely crowded. The limestone pavement surrounding the beach is characteristic of the island's karst landscape.",
+    "folklore": "Kilmurvey (Cill Mhuirbhigh) takes its name from a church dedicated to Saint Muirbheal. The area around the beach was part of the estate of the Digby family, who were the main landlords of Inishmore in the 19th century.",
+    "nature": "The beach is composed of clean white sand derived from fragmented shell and coralline material. The beach is adjacent to limestone pavement ('karren') with grykes harbouring rare plant species including Maidenhair Fern (Adiantum capillus-veneris) and Spring Gentian (Gentiana verna).",
+    "icon_type": "beach_strand",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Kilmurvey_Beach_Inis_Mor.jpg",
+        "author": "Velela",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kilmurvey_Beach_Inis_Mor.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Bungowla",
+    "region": "Inishmore",
+    "cluster": "West Inishmore",
+    "lat": 53.14362671111164,
+    "long": -9.8063600063324,
+    "coord_precision": "zona",
+    "description": "The westernmost village on Inishmore, lying about 9 km from Kilronan at the far end of the island's main road. Beyond Bungowla (Bun Gabhla), the island's road ends and the landscape opens onto the Atlantic. The village is the last settlement before the island's western cliffs, with views stretching unobstructed to the horizon. This is one of the most isolated and traditional communities on the Aran Islands, where Irish remains the everyday language.",
+    "folklore": "Bungowla means 'the end of the fork' in Irish, referring to the branching point of paths at the western tip of the island. The village has maintained the strongest traditions of island life \u0014 including currach fishing and dry-stone wall building \u0014 long after they declined elsewhere.",
+    "nature": "The western tip of Inishmore drops to the Atlantic via cliff faces and low rocky shores. The area is used by breeding seabirds including guillemots, razorbills, and choughs \u0014 the latter being the bird most associated with the Aran Islands.",
+    "icon_type": "village_settlement",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Inishmore_western_tip.jpg",
+        "author": "Brocken Inaglory",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inishmore_western_tip.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Dún Dúchathair",
+    "region": "Inishmore",
+    "cluster": "Kilronan & Killeany (Inishmore)",
+    "lat": 53.1046,
+    "long": -9.6876,
+    "coord_precision": "precise",
+    "description": "A large promontory stone fort on the southern cliffs of Inishmore near Killeany, also called the Black Fort. Walls up to 6 metres high and 5 metres wide surround an area that contains the ruins of several clocháns (beehive huts). A cheval de frise of jagged limestone spikes protects the landward approach. Coastal erosion has reduced the fort considerably since it was first recorded. Construction dates to between the 1st century BC and the 7th century AD.",
+    "folklore": "Like the other great forts of Inishmore, Dún Dúchathair is linked in legend to the Fir Bolg, the mythological pre-Celtic inhabitants of Ireland who are said to have retreated to the Aran Islands after their defeat in battle. The dark limestone of the cliffs and fort walls gives the site its 'black' name.",
+    "nature": "The fort occupies a limestone promontory with sheer sea cliffs on three sides. The cliff faces below the fort are nesting sites for peregrine falcons, fulmars, and kittiwakes.",
+    "icon_type": "fort_dun",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Dun_Duchathair.jpg",
+        "author": "Evinhane",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dun_Duchathair.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Gleann na nDeor",
+    "region": "Inishmore",
+    "cluster": "West Inishmore",
+    "lat": 53.08908193362456,
+    "long": -9.640138149261476,
+    "coord_precision": "zona",
+    "description": "A small valley descending to the clifftops on the northern coast of Inishmore, whose name translates as 'Valley of Tears'. The name commemorates the departures of emigrants from the island during and after the Great Famine. When emigrant ships sheltered in Gregory Sound awaiting favourable winds, islanders could climb to this clifftop to see their loved ones on the ships one last time \u0014 too far away to call out to, too close to pretend they were already gone.",
+    "folklore": "Tim Robinson, in his masterwork 'Stones of Aran: Pilgrimage', describes Gleann na nDeor as one of the most emotionally charged places on the island. The 'vale of tears' phrase comes from the old Catholic prayer 'Salve Regina', used to describe this world as a place of sorrow and exile \u0014 an apt double meaning for an island whose young people were leaving it, weeping, for the last time.",
+    "nature": "The valley leads down through limestone pavement to the northern cliff edge, overlooking Gregory Sound and the open Atlantic. The clifftops here are carpeted in spring by wildflowers typical of the Aran Islands \u0014 Spring Gentian, Mountain Avens, Wild Thyme \u0014 growing directly in grykes in the bare limestone.",
+    "icon_type": "cliff_coast",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Inis_Mor_northern_cliffs.jpg",
+        "author": "Velela",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Inis_Mor_northern_cliffs.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Puffing Holes",
+    "region": "Inishmore",
+    "cluster": "Kilronan & Killeany (Inishmore)",
+    "lat": 53.0898,
+    "long": -9.642,
+    "coord_precision": "precise",
+    "description": "Two large and one small circular blowholes on the limestone plateau at the southeastern tip of Inishmore, beyond the village of Cill Éinne. When Atlantic swells push into the sea caves below the plateau, compressed air erupts upward through these natural vents in spectacular geysers of white water and spray. Access requires a cross-country walk across bare limestone pavement from Cill Éinne village.",
+    "folklore": "Na Poill Seideáin ('the puffing holes') are known locally as a signal of incoming storms — the intensity of the spray is said to forecast how severe the weather will be. Fishermen traditionally read the blowholes before deciding whether to put to sea.",
+    "nature": "The blowholes are formed where sea caves eroded by wave action have punched through the thin limestone plateau above. The flat karst pavement surrounding them is one of the most intact examples of this habitat type in Ireland, designated as a Special Area of Conservation.",
+    "icon_type": "natural_feature",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Puffing_Holes_Inis_Mor.jpg",
+        "author": "Murr Rhys",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Puffing_Holes_Inis_Mor.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Dún Chonchúir",
+    "region": "Inishmaan",
+    "cluster": "Inis Meáin",
+    "lat": 53.0835,
+    "long": -9.5948,
+    "coord_precision": "precise",
+    "description": "The largest prehistoric stone fort on Inis Meáin, occupying the highest point of the island at about 60 metres above sea level. The oval cashel has an inner defensive wall reaching over 8 metres wide; originally over 14,000 tonnes of stone would have formed the inner wall alone. The fort's position gives commanding views of all three Aran Islands, Galway Bay, and the Connemara mountains.",
+    "folklore": "The fort is named after Conchúr, a semi-legendary king of the Aran Islands. J.M. Synge, who spent several summers on Inis Meáin between 1898 and 1902 gathering material for his plays, described sitting in the fort and feeling 'the full force of the spirit of the island'.",
+    "nature": "Dún Chonchúir crowns the limestone ridge of Inis Meáin. The surrounding plateau hosts a limestone grassland flora typical of the Burren, including Spring Gentian, Bloody Cranesbill, and several species of orchid.",
+    "icon_type": "fort_dun",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/D%C3%BAn_Chonch%C3%BAir_Inis_Me%C3%A1in.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:D%C3%BAn_Chonch%C3%BAir_Inis_Me%C3%A1in.jpg"
+      }
+    ]
+  },
+  {
+    "name": "An Trá",
+    "region": "Inisheer",
+    "cluster": "Inis Oírr",
+    "lat": 53.0662760666936,
+    "long": -9.520597457885744,
+    "coord_precision": "zona",
+    "description": "The main beach on Inis Oírr (the smallest Aran Island), a sweep of clean white sand on the northeastern coast sheltered by the island's small harbour. An Trá ('The Strand') faces northeast across Galway Bay, with views of the Burren limestone cliffs on the Clare coast. Inis Oírr is the smallest and most compact of the three Aran Islands, with the beach at the centre of island social life.",
+    "folklore": "The island looks across to the Burren coast of Clare, and its early Christian community maintained close ties with the monastic settlements on that coast. Saint Caomhán (Kevin), patron of Inis Oírr, is said to be buried in the medieval church of Teampall Chaomháin, which is partially buried in sand dunes at the southern edge of the beach.",
+    "nature": "The beach is composed of crushed shell and carbonate sand, characteristically white. The sheltered bay is a nursery area for juvenile fish and used by harbour porpoise. The sand dunes behind the beach are a nationally important habitat, with a diverse grassland flora including Pyramidal Orchid and Lady's Bedstraw.",
+    "icon_type": "beach_strand",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/An_Tr%C3%A1_Inis_O%C3%ADrr.jpg",
+        "author": "Velela",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:An_Tr%C3%A1_Inis_O%C3%ADrr.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Clonmacnoise",
+    "region": "Midlands",
+    "cluster": "Clonmacnoise (Offaly)",
+    "lat": 53.3254,
+    "long": -7.9884,
+    "coord_precision": "precise",
+    "description": "One of Ireland's most important early medieval monastic sites, founded in 544 AD by Saint Ciarán on the banks of the River Shannon in County Offaly. At the crossing of the ancient east-west road (Slighe Mhór) with Ireland's great river, Clonmacnoise became one of the foremost centres of Christian scholarship, art, and manuscript production in Europe. The site includes the ruins of a cathedral, eight churches, two round towers, three High Crosses, and over 200 early medieval grave slabs.",
+    "folklore": "Saint Ciarán died of plague only seven months after founding the community, at around 33 years old — the same age as Christ. Vikings raided Clonmacnoise at least nine times between 795 and 1012. The Book of the Dun Cow, one of Ireland's oldest manuscripts in Irish, was compiled here around 1100.",
+    "nature": "The monastery stands on a low ridge above the Shannon floodplain \u0014 the Callows \u0014 which floods seasonally and supports one of Ireland's largest inland concentrations of wintering wildfowl, including internationally important numbers of Whooper Swan and Greenland White-fronted Goose.",
+    "icon_type": "church_monastic",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Clonmacnoise.jpg",
+        "author": "Rabe!",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Clonmacnoise.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Clonmacnoise_-_panoramio.jpg",
+        "author": "Martin Vossberg",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Clonmacnoise_-_panoramio.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Kilmainham Gaol",
+    "region": "Dublin",
+    "cluster": "Dublin",
+    "lat": 53.3385,
+    "long": -6.3058,
+    "coord_precision": "precise",
+    "description": "A former prison in Kilmainham, Dublin, now one of Ireland's most visited museums, operated by the Office of Public Works. Built in 1796 and operational until 1924, Kilmainham Gaol held the leaders of almost every Irish rebellion from 1798 to the War of Independence. The leaders of the 1916 Easter Rising \u0014 Pearse, Connolly, Clarke, MacDonagh, Mac Diarmada, Plunkett, Ceannt \u0014 were executed by firing squad in the prison's stone-breakers' yard between 3 and 12 May 1916.",
+    "folklore": "Joseph Plunkett married his fiancée Grace Gifford in the prison chapel just hours before his execution. James Connolly, wounded in the fighting, was executed tied to a chair because he could not stand. The gaol's East Wing, visited by Oscar Wilde's mother, was said to be the most oppressive building in Ireland.",
+    "nature": "The gaol is a striking example of Victorian penitentiary architecture, designed on the panopticon principle with radiating cell wings. The East Wing's central atrium is filled with natural light from a glazed roof, contrasting with the original 18th-century West Wing of dark, damp cells.",
+    "icon_type": "castle_ruin",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Kilmainham_Gaol_exterior.jpg",
+        "author": "William Murphy",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kilmainham_Gaol_exterior.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Kilmainham_Gaol_East_Wing.jpg",
+        "author": "William Murphy",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kilmainham_Gaol_East_Wing.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Newport Viaduct",
+    "region": "Mayo",
+    "cluster": "Newport (Mayo)",
+    "lat": 53.8843604220638,
+    "long": -9.544823169708254,
+    "coord_precision": "precise",
+    "description": "A seven-arched railway viaduct built in 1892 of local red sandstone, spanning the Black Oak River at Newport, County Mayo. Now a centrepiece of the Great Western Greenway, the 42 km cycling and walking trail from Westport to Achill. The viaduct's graceful arches and warm stone colour make it one of the most photographed structures in Mayo. It carried the Midland Great Western Railway line until closure in 1937.",
+    "folklore": "Newport lies on the route known as Bóthar na gClog ('Road of the Bells'), an ancient Christian pilgrimage way connecting a chain of early medieval monasteries and holy sites across north Mayo. The bells of the churches along this road were said to ring of their own accord on feast days. The railway line that the viaduct once carried was itself a kind of industrial pilgrimage route — it brought thousands of Connaught pilgrims to Westport for the annual climb of Croagh Patrick.",
+    "nature": "The Black Oak River below the viaduct is a good salmon and sea trout river. The estuary just downstream opens into Clew Bay, whose drumlin islands are visible from the viaduct deck. Dippers and grey herons nest along the river banks year-round.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Newport_Viaduct_Mayo.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Newport_Viaduct_Mayo.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Matt Molloy's Pub",
+    "region": "Mayo",
+    "cluster": "Westport (Mayo)",
+    "lat": 53.8003,
+    "long": -9.519,
+    "coord_precision": "precise",
+    "description": "A traditional Irish pub on Bridge Street in Westport, owned since 1989 by Matt Molloy, flautist of The Chieftains. The pub is a destination for lovers of traditional Irish music \u0014 nightly sessions draw local players and visiting musicians, and the standard is consistently high. The interior is classic Victorian with dark wood, a long bar, and small snugs that fill with music and conversation.",
+    "folklore": "Matt Molloy joined The Chieftains in 1979 and is widely regarded as one of the finest traditional flautists alive. He bought the pub in Westport the same decade and it quickly became a gathering point for the traditional music scene of the west of Ireland. Legends of the genre have played impromptu sessions at the bar. The pub building dates to the Georgian period of Westport's development.",
+    "nature": "Located in the heart of Westport's Georgian streetscape, near the tree-lined Mall and the Carrowbeg River. The pub is a social institution at the centre of a living traditional music scene.",
+    "icon_type": "pub_amenity",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Matt_Molloy%27s_pub_Westport.jpg",
+        "author": "Velela",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Matt_Molloy%27s_pub_Westport.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Great Western Greenway",
+    "region": "Mayo",
+    "cluster": "Newport (Mayo)",
+    "lat": 53.81504491722865,
+    "long": -9.536862373352053,
+    "coord_precision": "zona",
+    "description": "Ireland's longest off-road walking and cycling trail, running 42 km from Westport to Achill Sound along the trackbed of the former Midland Great Western Railway. The railway closed in 1937; the Greenway opened in 2011 and has since become one of Ireland's most popular outdoor routes, traversing mountain bogs, Atlantic coastline, and the shores of Clew Bay.",
+    "folklore": "The railway it replaced was part of the network built during the post-Famine period as a combination of infrastructure investment and relief employment. The Midland Great Western Railway was nicknamed the 'Máthair' (Mother) by the communities it served. The line was the subject of a famous controversy when engineers said construction across the bog at Mallaranny was impossible.",
+    "nature": "The trail traverses coastal landscapes from the glacially-carved drumlins of Clew Bay to the rugged Atlantic coastline of north Mayo. The section near Mallaranny passes through a microclimate warm enough to support Mediterranean heath. The route is used by curlew, lapwing, and golden plover in winter.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Great_Western_Greenway_near_Newport.jpg",
+        "author": "Brendan Howard",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Great_Western_Greenway_near_Newport.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Kylemore Abbey",
+    "region": "Connemara",
+    "cluster": "Kylemore & Diamond Hill (Connemara)",
+    "lat": 53.56170035381684,
+    "long": -9.889283180236818,
+    "coord_precision": "precise",
+    "description": "A neo-Gothic castle and Benedictine monastery built in the 1860s on the shore of Pollacapull Lough beneath the Twelve Bens, one of the most iconic images of Connemara. Mitchell Henry, a wealthy English physician and MP, had it built as a love letter to his wife Margaret, who died in Egypt in 1874 aged just 45. The estate was purchased by Benedictine nuns fleeing WWI Belgium in 1920 and remains an active community today.",
+    "folklore": "The story of Kylemore is one of love, grief, and exile. Mitchell Henry constructed an entire Gothic church beside the castle as a memorial to his wife Margaret, who is buried beneath it. The nuns who arrived in 1920 had fled the destruction of their monastery at Ypres during WWI \u0014 a community twice displaced, who found permanence in this remote Connemara valley.",
+    "nature": "The castle sits at the foot of the Twelve Bens on the north shore of Pollacapull Lough. The six-acre Victorian walled garden has been restored and cultivates heritage varieties of fruit and vegetables. The lakeside setting, with mountain reflections in the water, is one of the most photographed landscapes in Ireland.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kylemore_Abbey_2.jpg",
+        "author": "Loco Steve",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kylemore_Abbey_2.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kylemore_Abbey_Walled_Garden.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kylemore_Abbey_Walled_Garden.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Diamond Hill",
+    "region": "Connemara",
+    "cluster": "Kylemore & Diamond Hill (Connemara)",
+    "lat": 53.5481706292875,
+    "long": -9.914560317993166,
+    "coord_precision": "precise",
+    "description": "A 445-metre quartzite peak within Connemara National Park, offering the finest accessible mountain views in the west of Ireland. The 7 km loop hike takes in both the lower and upper summits, with views of the Twelve Bens, Killary Harbour, the Aran Islands, and Inishbofin on a clear day. The name comes from the diamond-like sparkle of the quartzite rock in sunlight.",
+    "folklore": "The Twelve Bens, of which Diamond Hill is a satellite, are named after Beola, a legendary giant or chieftain said to have ruled Connemara before the coming of the Celts. The mountains are also associated in local tradition with the Fir Bolg, the mythological pre-Celtic inhabitants of Ireland.",
+    "nature": "The mountain supports extensive purple moor grass and deer grass bog, with mountain heath above 200 m. Red grouse nest on the upper slopes. Wild Connemara ponies graze the lower hillsides within the National Park. The boggy lower ground is rich in sphagnum moss and bog cotton.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Diamond_Hill_Connemara_National_Park.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Diamond_Hill_Connemara_National_Park.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Sky Road",
+    "region": "Connemara",
+    "cluster": "Clifden (Connemara)",
+    "lat": 53.50929588581462,
+    "long": -10.113773345947267,
+    "coord_precision": "zona",
+    "description": "A spectacular 12-kilometre coastal loop road and walking route rising high above Clifden Bay on the western tip of Connemara. The road climbs to over 100 m above sea level, offering panoramic views of the Twelve Bens, the Atlantic, and, on clear days, as far as Achill Island to the north. The drive is consistently listed among the finest scenic routes in Europe.",
+    "folklore": "The Sky Road overlooks the ruins of Clifden Castle, the Gothic Revival mansion built by John D'Arcy — who founded Clifden town in 1812. D'Arcy went bankrupt and the castle was abandoned. The road also looks out toward the remote monastic site of High Island (Ardoileán), used by monks in the 8th–9th centuries who sought maximum isolation from the world.",
+    "nature": "An exposed Atlantic headland of low maritime heath and rocky outcrops. The sea around High Island is one of the better spots for spotting basking sharks in summer. Choughs nest in the sea cliffs below the road.",
+    "icon_type": "cliff_coast",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sky_Road_Clifden_Connemara.jpg",
+        "author": "Velela",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sky_Road_Clifden_Connemara.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Dog's Bay & Gurteen",
+    "region": "Connemara",
+    "cluster": "Roundstone (Connemara)",
+    "lat": 53.37750836446908,
+    "long": -9.960308074951174,
+    "coord_precision": "precise",
+    "description": "Two back-to-back horseshoe beaches south of Roundstone, sharing a narrow sand spit. The white 'sand' is not sand at all but biogenic material: billions of shells of tiny foraminifera, crushed over millennia. The resulting pure white beaches and turquoise water are often compared to Caribbean beaches, and the location is one of the most photographed in Connemara.",
+    "folklore": "Local tradition says the luminous quality of the beaches after dark \u0014 a faint phosphorescence in the water \u0014 gave rise to stories of 'fairy fleets' landing here. The foraminifera shells that make the beach are so small that locals have traditionally called the beach 'coral' \u0014 a misnomer, but an evocative one.",
+    "nature": "The beach material is composed almost entirely of the tests (shells) of the foraminiferan Globigerina bulloides, a unique geological feature in Ireland. The bay is used by common seals and occasional harbour porpoise.",
+    "icon_type": "beach_strand",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Dogs_Bay_Connemara.jpg",
+        "author": "Velela",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dogs_Bay_Connemara.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Roundstone Village",
+    "region": "Connemara",
+    "cluster": "Roundstone (Connemara)",
+    "lat": 53.3955263178295,
+    "long": -9.919452667236328,
+    "coord_precision": "precise",
+    "description": "A picturesque fishing village on the south Connemara coast, built by Scottish engineer Alexander Nimmo in the 1820s as part of a systematic development of Connemara's infrastructure. The harbour was once a centre of the Connemara hooker (traditional sailing boat) trade. Today the village is known for its arts community, bodhrán-making workshop, and spectacular views of the Twelve Bens.",
+    "folklore": "Roundstone is home to Malachy Kearns, maker of the bodhrán (Irish frame drum), whose workshop in the old monastery on the hill is a destination for musicians worldwide. The Connemara hooker — the distinctive black-hulled, rust-sailed traditional working boat — was traded and repaired here for generations. Alexander Nimmo's legacy is the reason Connemara has any infrastructure at all.",
+    "nature": "The village is set at the foot of Errisbeg Hill (300 m), which offers an easy climb and views of Dog's Bay, the Twelve Bens, and the islands of south Connemara. The nearby bog areas are designated Natura 2000 sites.",
+    "icon_type": "village_settlement",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Roundstone_Harbour_Connemara.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Roundstone_Harbour_Connemara.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Lough Inagh Valley",
+    "region": "Connemara",
+    "cluster": "Kylemore & Diamond Hill (Connemara)",
+    "lat": 53.49649497935422,
+    "long": -9.736053943634035,
+    "coord_precision": "zona",
+    "description": "A remote and majestic valley road running north-south through the heart of Connemara, flanked by the Twelve Bens to the west and the Maumturk Mountains to the east. Lough Inagh and Lough Derryclare lie at the valley floor, their dark waters reflecting the mountain walls above. The R344 road through the valley is one of the most dramatic drives in Ireland.",
+    "folklore": "The valley was historically a route used by pilgrims travelling to Croagh Patrick and by smugglers bringing poitín from the bogs of Connemara to east Galway markets. The valley's isolation made it a refuge for those who wished to avoid the law or the taxman.",
+    "nature": "The valley floor is a mix of bog, lough, and commercial forestry. The mountain walls rise abruptly on both sides to over 600 m. Red deer have recolonised from Connemara National Park. The loughs support brown trout and occasional white-tailed eagle sightings.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Lough_Inagh_Valley_Connemara.jpg",
+        "author": "Velela",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lough_Inagh_Valley_Connemara.jpg"
+      }
+    ]
+  },
+  {
+    "name": "An Spidéal",
+    "region": "Connemara",
+    "cluster": "South Connemara (Galway)",
+    "lat": 53.24405925157301,
+    "long": -9.305849075317385,
+    "coord_precision": "precise",
+    "description": "The largest Gaeltacht village on the Galway Bay coast, 20 km west of Galway city, and a key centre for Irish language, music, and culture. Spiddal is home to TG4, the Irish-language television channel, an active traditional arts centre (Ceardlann na Trá), craft shops, and pub music sessions. The village beach — Silver Strand — lies below a granite headland with rock pools full of marine life.",
+    "folklore": "Spiddal takes its name from the Irish word for 'hospital' (spital, from Latin hospitale) — a medieval institution that stood here to care for pilgrims making their way along the coast road toward the Aran Islands. The Gaeltacht coastline here is associated with 19th-century Irish-language poets, including Máirtín Ó Direáin from Inis Mór.",
+    "nature": "The village overlooks the north shore of Galway Bay, with views across to the limestone Burren of County Clare. The rock pools at low tide are excellent habitat for anemones, starfish, and small fish. The bay in front is a protected area for harbour porpoise.",
+    "icon_type": "village_settlement",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/An_Spid%C3%A9al_village.jpg",
+        "author": "Velela",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:An_Spid%C3%A9al_village.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Mace Head",
+    "region": "Connemara",
+    "cluster": "South Connemara (Galway)",
+    "lat": 53.326,
+    "long": -9.9,
+    "coord_precision": "precise",
+    "description": "A remote rocky headland on the south Connemara coast near Carna, known internationally as the location of the Mace Head Atmospheric Research Station, which has monitored global air quality and greenhouse gas concentrations since 1958. The clean Atlantic air here is among the purest in Europe, and the station's data has been central to international climate research.",
+    "folklore": "Mace Head was identified by ancient mariners as a critical reference point for navigation along the south Connemara coast. In more recent legend, the headland is said to be where Connemara fishermen first saw 'ghost ships' on the horizon \u0014 optical illusions caused by atmospheric inversion layers over the cold Atlantic, well-documented by the research station.",
+    "nature": "An important seabird observation point: choughs breed in the sea cliffs, and grey seals haul out on the offshore rocks. The station measures tropospheric ozone, methane, and CO2 from the clean Atlantic baseline. Mason Island, visible offshore, is an important breeding site for Atlantic grey seals.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Mace_Head_Connemara.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mace_Head_Connemara.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Trá an Doilín",
+    "region": "Connemara",
+    "cluster": "South Connemara (Galway)",
+    "lat": 53.2485030311598,
+    "long": -9.629130363464357,
+    "coord_precision": "precise",
+    "description": "A unique beach at the tip of the Carraroe Peninsula in south Connemara where the 'sand' consists almost entirely of maerl \u0014 calcified coralline red algae \u0014 giving the beach a distinctive pink-white colour. Also known as the Coral Strand, this is one of only a few maerl beaches in the world and is protected under EU habitats legislation.",
+    "folklore": "Local lore has it that the 'coral' was placed here by sea saints to provide a dry path across the water for the faithful making their way to the Aran Islands. The name Trá an Doilín is associated in local tradition with a small hidden harbour used by Connemara fishermen making the crossing to the islands in their currachs.",
+    "nature": "Maerl (coralline algae) forms branching calcareous structures on the seabed that accumulate over millennia and wash ashore. Living maerl beds are among the most biodiverse shallow-water habitats in Ireland; the beach at Carraroe is a Natura 2000 SAC for this habitat. The clear, shallow water is excellent for snorkelling.",
+    "icon_type": "beach_strand",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Coral_Strand_Carraroe.jpg",
+        "author": "Amanda Slater",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Coral_Strand_Carraroe.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Clew Bay Cruises",
+    "region": "Mayo",
+    "cluster": "Westport (Mayo)",
+    "lat": 53.8,
+    "long": -9.507,
+    "coord_precision": "zona",
+    "description": "Boat tours departing from Westport Quay navigating the remarkable archipelago of Clew Bay \u0014 the drumlin-island sea formed when glacial deposits were drowned by rising sea levels at the end of the last Ice Age. Tours pass among the 365 islands (one for each day of the year, by local count), including Clare Island \u0014 once the stronghold of Grace O'Malley.",
+    "folklore": "The 365-islands claim is a piece of Mayo folklore that exaggerates the actual count for poetic effect, but the bay does contain an exceptional concentration of drumlins \u0014 over a hundred. Clare Island at the bay's mouth was Grace O'Malley's principal stronghold and naval base; she is buried in the island's abbey.",
+    "nature": "Clew Bay is designated as a SAC and SPA for its combination of intertidal drumlin habitat, seagrass beds, and seabird colonies. Common seals breed on the islands. The bay is an important nursery for Atlantic herring and a feeding ground for common dolphins.",
+    "icon_type": "village_settlement",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Clew_Bay_drumlins_aerial.jpg",
+        "author": "Brocken Inaglory",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Clew_Bay_drumlins_aerial.jpg"
+      }
+    ]
+  },
+  {
+    "name": "O'Malley's Seat",
+    "region": "Connemara",
+    "cluster": "South Connemara (Galway)",
+    "lat": 53.271,
+    "long": -9.558,
+    "coord_precision": "uncertain",
+    "description": "A chair-like rock formation on the headland near Rossaveal, traditionally identified as a lookout used by a local smuggler named O'Malley in the 18th century. The 'seat' is a natural weathered granite outcrop commanding views of the approaches to the coast from the Atlantic, with the silhouettes of the Aran Islands on the southern horizon.",
+    "folklore": "The O'Malley in question is said to be a descendant of the pirate queen Grace O'Malley's clan who carried on a modest version of the family trade in the 1700s \u0014 running illicit wine and tobacco from French ships to the Connemara coast. He is said to have sat at this rock to watch for his sloop returning from a run and check the coast was clear of revenue cutters.",
+    "nature": "The headland near Rossaveal looks south across the mouth of Galway Bay toward the Aran Islands. The granite coast is bare and wind-exposed. The area is an important gathering point for seabirds in autumn migration.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Rossaveel_coastline_Connemara.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rossaveel_coastline_Connemara.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Tigh Neachtain",
+    "region": "Galway",
+    "cluster": "Galway City",
+    "lat": 53.272,
+    "long": -9.056,
+    "coord_precision": "precise",
+    "description": "One of Galway City's most celebrated traditional pubs, occupying a corner building at the junction of Cross Street and Quay Street in the medieval quarter. Dating to the 19th century, the pub retains its original snug layout, dark wood interior, and traditional atmosphere. It is a focal point of Galway's traditional music scene and literary community, and a gathering place for the arts crowd during the annual Galway Arts Festival.",
+    "folklore": "The pub is named after the Neachtain (Naughton) family, who ran it for generations. The building was formerly associated with Richard Martin MP (1754\u00131834), known as 'Humanity Dick', who founded what became the RSPCA in 1824 \u0014 the world's first animal welfare organisation. Martin was a Galway landlord known for his humanity toward both animals and his tenants.",
+    "nature": "Located in the medieval heart of Galway City, near the Corrib River and the Spanish Arch. The surrounding streets follow the medieval street plan of the 15th-century Galway town.",
+    "icon_type": "pub_amenity",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tigh_Neachtain_Galway.jpg",
+        "author": "William Murphy",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tigh_Neachtain_Galway.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Athenry Castle",
+    "region": "Galway",
+    "cluster": "East Galway",
+    "lat": 53.299973396129445,
+    "long": -8.744248151779177,
+    "coord_precision": "precise",
+    "description": "A formidable three-storey 13th-century tower house at the centre of the medieval walled town of Athenry, County Galway, built around 1235 by Meiler de Bermingham after the Anglo-Norman conquest of Connacht. The surrounding town retains substantial sections of its 13th-century walls, three gate towers, and a Dominican priory (1241).",
+    "folklore": "Athenry is immortalised in the ballad 'The Fields of Athenry', written by Pete St. John in 1979 and now sung at every major Irish sporting event. The song tells of Michael, a man transported to Australia for stealing corn during the Great Famine to feed his starving family. Athenry's de Berminghams were among the most powerful Anglo-Norman lords of Connacht for centuries.",
+    "nature": "Set on the flat limestone plain of east County Galway, known as the 'Plains of Connacht'. The surrounding agricultural land is some of the most fertile in the west of Ireland, underlain by Carboniferous limestone.",
+    "icon_type": "castle_ruin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Athenry_Castle.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Athenry_Castle.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Clonfert Cathedral",
+    "region": "Galway",
+    "cluster": "East Galway",
+    "lat": 53.225,
+    "long": -8.03,
+    "coord_precision": "precise",
+    "description": "A small but extraordinarily important early medieval cathedral in County Galway, famous for its Romanesque west doorway \u0014 considered the finest example of Irish Romanesque architecture. The doorway, dating to around 1180, features six recessed orders of intricate carvings, the innermost adorned with a row of carved human heads. The cathedral was founded on the site of a monastery established by Saint Brendan the Navigator in 563 AD.",
+    "folklore": "Saint Brendan of Clonfert (484\u0013577) is one of the most legendary figures in Irish Christianity. His 'Navigatio Sancti Brendani' describes a seven-year voyage across the Atlantic by Brendan and a crew of monks, encountering wonders including a sea monster and an island that was actually a sleeping whale. Some scholars argue the text describes a genuine pre-Columbian Irish Atlantic crossing. Tim Severin replicated the journey in a currach in 1976\u001377, proving it physically possible.",
+    "nature": "The cathedral is set in a quiet, wooded glen near the River Shannon in east County Galway. The surrounding woodland is dominated by ash and oak, with river meadows providing habitat for whooper swans in winter.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Clonfert_Cathedral_doorway.jpg",
+        "author": "Rabe!",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Clonfert_Cathedral_doorway.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Aughrim Battlefield",
+    "region": "Galway",
+    "cluster": "East Galway",
+    "lat": 53.34,
+    "long": -8.381,
+    "coord_precision": "precise",
+    "description": "The site of the Battle of Aughrim (12 July 1691), the bloodiest battle ever fought on Irish soil and the decisive engagement of the Williamite War in Ireland. Over 7,000 men were killed in a single afternoon \u0014 the largest single-day loss of life in any battle in Irish history. A heritage centre and walking trail commemorate the battle.",
+    "folklore": "The battle turned on a single moment: the Marquis de Saint-Ruth was decapitated by a cannonball just as the Jacobite forces appeared to be winning. His death caused confusion and panic in the Jacobite ranks; the retreat became a rout. The phrase 'his head is off' \u0014 a proverbial expression for bad luck in Connacht \u0014 is said to derive from this moment. The battlefield fields are largely unchanged and human bones have been turned up by ploughing for centuries.",
+    "nature": "The battlefield lies on flat, boggy ground of east County Galway, between the hill of Aughrim and the Suck River valley. The surrounding agricultural land is a mix of improved pasture and areas of wet grassland.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Aughrim_Battlefield_Galway.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Aughrim_Battlefield_Galway.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Shannonbridge",
+    "region": "Galway",
+    "cluster": "Shannon River (Offaly/Galway)",
+    "lat": 53.279,
+    "long": -8.058,
+    "coord_precision": "precise",
+    "description": "A village on the River Shannon at the boundary of Counties Galway, Offaly, and Roscommon, dominated by a massive Napoleonic-era artillery fort built in 1810 to guard the strategic river crossing. The fort \u0014 now used as a heritage pub and restaurant \u0014 is one of the best-preserved Napoleonic defensive structures in Ireland.",
+    "folklore": "The fort was built during the period when a French invasion via the Shannon was considered a serious possibility. It was never used in combat \u0014 the French invasion never came \u0014 but its construction employed hundreds of local workers at a time of extreme poverty. Killeen's Pub in Shannonbridge is a 'living museum' of 19th-century rural Ireland, with an interior little changed in a century.",
+    "nature": "Shannonbridge is the gateway to the Shannon Callows, a 35 km stretch of seasonally-flooded riverside meadows that is one of Ireland's most important habitats for corncrakes, snipe, and wintering wildfowl. The Callows are a Special Protection Area and Ramsar Wetland.",
+    "icon_type": "village_settlement",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Shannonbridge_fort.jpg",
+        "author": "Rabe!",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Shannonbridge_fort.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Athlone Castle",
+    "region": "Midlands",
+    "cluster": "Athlone (Westmeath)",
+    "lat": 53.423,
+    "long": -7.94,
+    "coord_precision": "precise",
+    "description": "A 13th-century Anglo-Norman castle on the west bank of the River Shannon at Athlone, one of the most strategic river crossings in Ireland. The current cylindrical keep dates to 1210. A Heritage Ireland museum covers the history of Athlone and its role in the 1691 Siege, when Williamite forces subjected the town to a famous artillery bombardment.",
+    "folklore": "During the Siege of Athlone in 1691, Sergeant Custume became a hero of Irish history when he and a small party tore up the planks of the bridge over the Shannon under sustained Williamite fire. He and all his men were killed but the bridge was destroyed and the crossing held for ten more days. Over 12,000 cannonballs were fired during the siege and are still occasionally found in the Shannon riverbed.",
+    "nature": "The castle stands at the narrows of the Shannon, which widens into Lough Ree. The wetlands and reed beds are important habitat for reed warbler and sedge warbler. White-tailed eagles are increasingly regular on Lough Ree.",
+    "icon_type": "castle_ruin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Athlone_Castle.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Athlone_Castle.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Seán's Bar",
+    "region": "Midlands",
+    "cluster": "Athlone (Westmeath)",
+    "lat": 53.424,
+    "long": -7.937,
+    "coord_precision": "precise",
+    "description": "A pub on the west bank of the Shannon in Athlone, certified by the Guinness World Records and the National Museum of Ireland as the oldest pub in Ireland, with origins dating to 900 AD. During renovations in the 1970s, the walls were found to contain wattle-and-daub construction consistent with 10th-century building techniques, along with corroded coins from the same period.",
+    "folklore": "The pub's claim to antiquity rests on the discovery of ancient walls and coins during renovation and analysis by the National Museum. The site is on the west bank of the Shannon at a key early medieval river crossing. During renovations, coins found in the walls were of Irish mintage from around 900 AD, suggesting the pub's predecessor was open for business when the Vikings were raiding the Midlands.",
+    "nature": "Located on the riverbank of the Shannon in central Athlone, a few metres from the bridge connecting the two halves of the town. The Shannon at this point is wide and navigable, forming the western boundary of Leinster.",
+    "icon_type": "pub_amenity",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Sean%27s_Bar_Athlone.jpg",
+        "author": "William Murphy",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sean%27s_Bar_Athlone.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Kilbeggan Distillery",
+    "region": "Midlands",
+    "cluster": "Westmeath",
+    "lat": 53.374,
+    "long": -7.503,
+    "coord_precision": "precise",
+    "description": "The oldest licensed distillery in the world, established in 1757 in Kilbeggan, County Westmeath, now operating as a whiskey distillery and heritage museum. The original buildings, machinery, copper pot stills, and water wheel \u0014 powered by the River Brosna \u0014 are largely intact and open to visitors. After a period of closure, the distillery was revived in 2007 and now produces Kilbeggan and Tyrconnell Irish whiskeys.",
+    "folklore": "The waterwheel, dating to 1757 and still powering the milling, is one of the oldest continuously-used industrial machines in Ireland. The distillery closed in 1957 and lay dormant for decades before enthusiasts revived it using the original 19th-century equipment. The craft traditions of the original distillers are said to have been maintained through over two centuries of operation, interruption, and revival.",
+    "nature": "The distillery is powered by the River Brosna, a tributary of the Shannon. The river is a good trout fishery. The surrounding Westmeath landscape is rolling drumlin country with numerous small lakes.",
+    "icon_type": "village_settlement",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Kilbeggan_Distillery.jpg",
+        "author": "Rabe!",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kilbeggan_Distillery.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Belvedere House",
+    "region": "Midlands",
+    "cluster": "Westmeath",
+    "lat": 53.499,
+    "long": -7.356,
+    "coord_precision": "precise",
+    "description": "An 18th-century Rococo hunting lodge on the shores of Lough Ennell near Mullingar, County Westmeath, famous for containing the largest folly in Ireland: the 'Jealous Wall', a ruined Gothic facade built to block the view of a neighbouring house. The estate of 160 acres is now a public park and heritage site.",
+    "folklore": "Robert Rochfort accused his younger brother Arthur of adultery with his wife, had Arthur imprisoned for 31 years, and then built a fake ruined Gothic wall to block his view of Arthur's house on the other side of the estate. Arthur was kept imprisoned for the rest of his life on an unproved charge. The scandal was one of the most notorious in Georgian Ireland.",
+    "nature": "The estate sits on the shores of Lough Ennell, an important habitat for overwintering diving ducks including tufted duck, pochard, and goldeneye. The parkland contains veteran trees including lime avenues and specimen oaks.",
+    "icon_type": "castle_ruin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Belvedere_House_Lough_Ennell.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Belvedere_House_Lough_Ennell.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Fore Valley",
+    "region": "Midlands",
+    "cluster": "Westmeath",
+    "lat": 53.638,
+    "long": -7.183,
+    "coord_precision": "precise",
+    "description": "A scenic limestone valley in northwest County Westmeath, home to the early medieval monastic site of Fore Abbey (founded by Saint Feichín, 630 AD) and the famous 'Seven Wonders of Fore' — a set of local phenomena considered miraculous, including a monastery built on a bog, a mill without a race, and water that won't boil.",
+    "folklore": "Each of the 'Seven Wonders' has a rational explanation but a miraculous attributed cause. The 'water that won't boil' is a well said to have been cursed after someone boiled an egg in it on Good Friday. The 'anchorite in a stone' refers to a medieval anchorite who was literally walled into a small cell in the church. Saint Feichín himself is said to have levitated the great lintel stone of the church into position.",
+    "nature": "A lush, green limestone grassland environment with ancient hawthorn and ash scrub. The valley floor contains several turloughs (seasonal lakes) fed by the karst water table. The rare Green-winged Orchid and Fly Orchid have been recorded in the limestone grasslands.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Fore_Abbey_Westmeath.jpg",
+        "author": "Rabe!",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Fore_Abbey_Westmeath.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Trim Castle",
+    "region": "Meath",
+    "cluster": "Boyne Valley (Meath)",
+    "lat": 53.55,
+    "long": -6.79,
+    "coord_precision": "precise",
+    "description": "The largest Anglo-Norman castle in Ireland, with a keep of 30,000 sq ft, built from 1172 by Hugh de Lacy on the south bank of the River Boyne in Trim, County Meath. The castle is among the finest medieval fortifications in Ireland and was used as the primary filming location for Mel Gibson's 1995 film 'Braveheart'.",
+    "folklore": "Trim Castle's 'Yellow Steeple' across the river was once home to a miraculous statue of the Virgin that drew pilgrims from across Ireland, destroyed during the Reformation. Henry V of England was educated at Trim as a child. The castle survived numerous Irish sieges but was finally dismantled by Cromwellian forces in 1649 to prevent its use as a stronghold.",
+    "nature": "The castle sits on the south bank of the Boyne, here a fast-flowing limestone river. The nearby river meadows are seasonally flooded and used by overwintering wildfowl.",
+    "icon_type": "castle_ruin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Trim_Castle.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Trim_Castle.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Hill of Tara",
+    "region": "Meath",
+    "cluster": "Boyne Valley (Meath)",
+    "lat": 53.58,
+    "long": -6.6122,
+    "coord_precision": "precise",
+    "description": "The ceremonial and political capital of ancient Ireland, seat of the High Kings for over two millennia. A low ridge in County Meath with panoramic views across the central plains, Tara is one of the most sacred sites in Irish mythology and history. The complex includes earthworks, ring forts, and passage tombs from the Neolithic period onward.",
+    "folklore": "The Lia Fáil (Stone of Destiny) on Tara's summit is said to roar when the rightful King of Ireland touches it — it has been silent since the death of the last High King in the 12th century. The hill is the setting for some of the most important events in Irish mythological cycles: the Tuatha Dé Danann, the Milesians, and the historical High Kings all have their stories here.",
+    "nature": "The hill rises to only 155 m but commands views of 18 counties on a clear day due to the flatness of the surrounding plain. The monument complex includes ring forts, passage tombs, and linear earthworks. The grassy hillside supports a traditional hay meadow flora.",
+    "icon_type": "fort_dun",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hill_of_Tara_panorama.jpg",
+        "author": "Rabe!",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hill_of_Tara_panorama.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Monasterboice",
+    "region": "Louth",
+    "cluster": "Boyne Valley (Louth)",
+    "lat": 53.778,
+    "long": -6.408,
+    "coord_precision": "precise",
+    "description": "A 5th-century monastic site in County Louth containing two of the finest High Crosses in Ireland and a 35-metre round tower. Muiredach's Cross (c. 900 AD), at 5.5 metres tall, is considered the finest surviving example of an Irish High Cross, with panels depicting biblical scenes carved with exceptional detail.",
+    "folklore": "The High Crosses functioned as 'stone bibles' for the largely illiterate medieval population. The round tower, whose door is set 3 metres above ground level, was a refuge during Viking raids: monks would pull the ladder up after them and wait inside with their manuscripts and relics. Monasterboice was plundered by Vikings in 968.",
+    "nature": "The monastic enclosure is surrounded by ancient yew trees and a graveyard of great antiquity. The surrounding County Louth landscape is rolling drumlin country with fertile agricultural land.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Muiredach%27s_High_Cross_Monasterboice.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Muiredach%27s_High_Cross_Monasterboice.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Mellifont Abbey",
+    "region": "Louth",
+    "cluster": "Boyne Valley (Louth)",
+    "lat": 53.75,
+    "long": -6.458,
+    "coord_precision": "precise",
+    "description": "The first Cistercian monastery in Ireland, founded in 1142 by Saint Malachy of Armagh with the assistance of Saint Bernard of Clairvaux. Its Romanesque and proto-Gothic architecture, imported directly from Burgundy, marked a decisive break from the tradition of small Irish monasteries. At its peak it was the head of a network of 38 Cistercian houses in Ireland.",
+    "folklore": "The foundation of Mellifont is considered the moment when the Irish Church was brought definitively into the mainstream of European Christianity. The 'Washing Place' (lavabo) at Mellifont \u0014 a Romanesque octagonal structure where monks washed their hands before meals \u0014 is the finest surviving Romanesque structure in Ireland.",
+    "nature": "The abbey is set in a wooded valley beside the Mattock River, a tributary of the Boyne. The river is shaded by mature broadleaved woodland. The ruins include the reconstructed lavabo, chapter house, and outline of the 12th-century church.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mellifont_Abbey.jpg",
+        "author": "Rabe!",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mellifont_Abbey.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Slane Castle",
+    "region": "Meath",
+    "cluster": "Boyne Valley (Meath)",
+    "lat": 53.712,
+    "long": -6.539,
+    "coord_precision": "precise",
+    "description": "A Gothic Revival castle on a dramatic bend of the River Boyne at Slane, County Meath, home to the Conyngham family since 1701 and known internationally as Ireland's greatest rock concert venue. The natural amphitheatre formed by the river bend has hosted some of the largest outdoor concerts in history: U2, The Rolling Stones, Queen, David Bowie, and Bruce Springsteen have all played here.",
+    "folklore": "The proximity of Slane Castle to the Hill of Slane \u0014 where Saint Patrick famously lit his Paschal Fire in defiance of the High King's prohibition \u0014 gives the site an ancient resonance that the concert tradition only amplifies. The castle was built in part by James Wyatt in the 1780s for Henry Burton Conyngham and also houses a whiskey distillery.",
+    "nature": "The castle overlooks one of the most dramatic bends of the River Boyne, a fertile river valley of European archaeological importance. The grounds include parkland with veteran trees along the riverbank.",
+    "icon_type": "castle_ruin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Slane_Castle_Boyne.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Slane_Castle_Boyne.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Hill of Slane",
+    "region": "Meath",
+    "cluster": "Boyne Valley (Meath)",
+    "lat": 53.716,
+    "long": -6.54,
+    "coord_precision": "precise",
+    "description": "A hill overlooking the River Boyne at Slane with the ruins of a 16th-century Franciscan friary on its summit, and one of the most important sites in the history of Irish Christianity. It was here, on Holy Saturday 433 AD, that Saint Patrick lit a Paschal Fire in defiance of a royal proclamation forbidding any fire to burn before the High King's fire at Tara.",
+    "folklore": "When the High King Laoghaire at Tara saw the fire blazing on the hill of Slane, his druids warned him: 'Unless that fire is quenched tonight, it will blaze forever.' Patrick's confrontation with the druids ended in a series of miracles — raising the dead, causing a druid to fly upward and crash to earth, making himself invisible — which convinced many at court to convert. Patrick's biographer Muirchú wrote the account in the 7th century.",
+    "nature": "The hill commands a panoramic view of the central plains of Ireland. The summit friary ruins are surrounded by ancient woodland and sheep pasture.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hill_of_Slane_friary.jpg",
+        "author": "Rabe!",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hill_of_Slane_friary.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Newgrange",
+    "region": "Meath",
+    "cluster": "Brú na Bóinne (Meath)",
+    "lat": 53.69,
+    "long": -6.4717,
+    "coord_precision": "precise",
+    "description": "A massive Neolithic passage tomb in the Boyne Valley, built around 3200 BC — making it older than Stonehenge and the Egyptian Pyramids. The circular mound is 85 metres in diameter and 13 metres high. At the winter solstice, a beam of light enters through the 'roofbox' and illuminates the inner chamber for 17 minutes — a precisely engineered astronomical event. Part of the Brú na Bóinne UNESCO World Heritage Site.",
+    "folklore": "In Irish mythology, Newgrange (Brú na Bóinne) was the home of the Dagda, the father-god of the Tuatha Dé Danann, and the birthplace of the god Aengus. The winter solstice alignment was likely used in fertility rituals marking the return of the sun. The mound was reused as a royal inauguration site in the early medieval period.",
+    "nature": "The monument complex is set on a ridge above the River Boyne, part of the UNESCO Brú na Bóinne World Heritage Site including Newgrange, Knowth, and Dowth. The white quartz facade was restored in the 1970s based on quartz found collapsed at the base of the mound.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Newgrange.jpg",
+        "author": "Shira",
+        "license": "CC BY-SA 2.5",
+        "source": "https://commons.wikimedia.org/wiki/File:Newgrange.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Knowth",
+    "region": "Meath",
+    "cluster": "Brú na Bóinne (Meath)",
+    "lat": 53.703,
+    "long": -6.491,
+    "coord_precision": "precise",
+    "description": "The largest of the three great Neolithic passage tombs in the Boyne Valley, containing the world's largest collection of megalithic art — over a third of all known megalithic art in Western Europe. The main mound at Knowth is similar in size to Newgrange but contains two passage tombs (east and west). Part of the Brú na Bóinne UNESCO World Heritage Site.",
+    "folklore": "The Knowth kerbstones carry abstract spirals, lozenges, and zigzag carvings whose meaning remains unknown \u0014 the most complex corpus of Neolithic art in Europe. In the early medieval period, Knowth was a seat of the Kings of North Brega, and the mound was occupied by souterrains (underground stone passages) built within the Neolithic structure.",
+    "nature": "The main mound at Knowth is surrounded by 17 smaller satellite passage tombs, making the complex the largest such grouping in Ireland. The surrounding Boyne Valley farmland is some of the most fertile in Ireland. Barn owls hunt the surrounding fields at dusk.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Knowth_passage_tomb.jpg",
+        "author": "Rabe!",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Knowth_passage_tomb.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Battle of the Boyne Site",
+    "region": "Meath",
+    "cluster": "Boyne Valley (Meath)",
+    "lat": 53.727,
+    "long": -6.419,
+    "coord_precision": "precise",
+    "description": "The site of the Battle of the Boyne, fought on 1 July 1690 between William III and James II, the largest and most consequential battle ever fought in Ireland. Over 60,000 soldiers crossed this stretch of the River Boyne, making it the largest military encounter on Irish soil. The Williamite victory determined the Protestant succession to the British throne. The site at Oldbridge includes restored Oldbridge House and 500 acres of parkland.",
+    "folklore": "The battle's symbolic legacy far outlasted its military consequences: July 12th is still celebrated by the Orange Order in Northern Ireland as 'The Twelfth'. William's victory was actually celebrated by Pope Innocent XI, who was himself in political conflict with the Catholic King James \u0014 demonstrating the complex realpolitik behind the religious symbolism. The ford at Oldbridge where the decisive crossing took place is marked by interpretive panels.",
+    "nature": "The Boyne at Oldbridge is a wide, shallow river easily fordable at low water \u0014 the military key to the battle. The 500-acre parkland includes restored formal gardens and river walks. The wetland margins support breeding kingfisher and otters.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Battle_of_the_Boyne_Oldbridge.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Battle_of_the_Boyne_Oldbridge.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Drogheda (St. Peter's Church)",
+    "region": "Louth",
+    "cluster": "Boyne Valley (Louth)",
+    "lat": 53.718,
+    "long": -6.356,
+    "coord_precision": "precise",
+    "description": "A large Catholic church in central Drogheda, County Louth, containing one of the most unusual relics in Ireland: the preserved head of Saint Oliver Plunkett (1625\u00131681), the last Catholic martyred in England. Plunkett was Archbishop of Armagh, falsely accused of involvement in the 'Popish Plot', tried in London, and hanged, drawn and quartered at Tyburn in 1681. He was canonised in 1975. Drogheda also features St. Laurence's Gate, one of the finest medieval town gates in Ireland.",
+    "folklore": "Oliver Plunkett was canonised by Pope Paul VI in 1975 \u0014 the first new Irish saint in almost 700 years. His head was rescued from the ashes of his execution fire and kept by supporters before coming to rest in Drogheda. The preservation of the head in remarkably good condition after three centuries is considered by the faithful to be miraculous. Drogheda also commemorates the 1649 massacre by Cromwell's army.",
+    "nature": "Drogheda stands at the mouth of the River Boyne estuary. The estuary is an important bird habitat, with wading birds, wildfowl, and terns using the mudflats and sandbars.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/St_Peter%27s_Church_Drogheda.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:St_Peter%27s_Church_Drogheda.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Millmount",
+    "region": "Louth",
+    "cluster": "Boyne Valley (Louth)",
+    "lat": 53.718,
+    "long": -6.355,
+    "coord_precision": "precise",
+    "description": "A large defensive mound on the south bank of the Boyne at Drogheda, topped by a Martello tower built after 1798 and now converted to a museum. The mound itself is pre-Norman and possibly prehistoric, commanding panoramic views of the entire town, the river, and the coast. The museum contains a remarkable collection of local history artefacts and original guild banners.",
+    "folklore": "Local legend holds that Millmount was the burial place of Amergin, the ancient poet-druid of the Milesian people. Amergin's 'Song of Amergin', one of the oldest texts in the Irish language, is said to have been composed as his people landed on Irish shores. The mound was briefly used as a barracks during the Irish Civil War in 1922.",
+    "nature": "The mound stands on the south bank of the Boyne, with the estuary and the Irish Sea visible to the east. The Boyne estuary below Drogheda is an important habitat for migratory wading birds including dunlin, knot, and black-tailed godwit.",
+    "icon_type": "castle_ruin",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Millmount_Drogheda.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Millmount_Drogheda.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Kells Round Tower",
+    "region": "Meath",
+    "cluster": "Boyne Valley (Meath)",
+    "lat": 53.731,
+    "long": -6.872,
+    "coord_precision": "precise",
+    "description": "A 9th-century monastic site in Kells, County Meath, containing a 30-metre round tower, five High Crosses, and the 'House of Colmcille' \u0014 a small stone oratory. The site is most famous as the place where the Book of Kells was likely completed: after the Viking raid on Iona in 806, the surviving monks established a daughter house at Kells and continued their work on the great illuminated gospel manuscript.",
+    "folklore": "The Book of Kells \u0014 now in Trinity College Dublin \u0014 is considered the greatest surviving example of Insular art, created by monks who had fled Viking raiding. It represents an act of cultural defiance: the production of an extraordinarily complex and beautiful object in the face of ongoing violence. The monks worked at Kells over several decades in the late 8th and early 9th centuries.",
+    "nature": "The monastic site is set in the centre of the modern town of Kells, in the drumlin country of north County Meath. The surrounding landscape is rolling agricultural land with hedgerow oaks and ash.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Kells_Round_Tower_Meath.jpg",
+        "author": "Andreas F. Borchert",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kells_Round_Tower_Meath.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Loughcrew Cairns",
+    "region": "Meath",
+    "cluster": "Boyne Valley (Meath)",
+    "lat": 53.735,
+    "long": -7.11,
+    "coord_precision": "precise",
+    "description": "A series of Neolithic passage tombs spread across the summit ridges of the Loughcrew Hills in northwest County Meath. The principal cairns on the highest hill — Sliabh na Caillí — at 276 metres are aligned with the spring and autumn equinoxes. The site offers views of up to 18 counties on a clear day and is freely accessible, unlike Newgrange.",
+    "folklore": "Sliabh na Caillí means 'Hill of the Witch': local legend says a legendary hag (Cailleach Bhéara) dropped the cairns from her apron as she leaped from hilltop to hilltop. In Irish mythology, the Cailleach is an ancient divine figure associated with winter, wild weather, and the pre-human landscape. The equinox alignment of Cairn T predates Newgrange's famous solstice alignment by thousands of years.",
+    "nature": "The Loughcrew Hills rise from the midland plain, providing a habitat mosaic of upland heath, improved grassland, and rocky outcrops. Skylarks nest on the hill slopes in summer. The summit cairns can be walked to in about 15 minutes from the car park.",
+    "icon_type": "natural_feature",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Loughcrew_Cairns_Meath.jpg",
+        "author": "Rabe!",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Loughcrew_Cairns_Meath.jpg"
+      }
+    ]
+  },
+  {
+    "name": "St. Mary's Abbey (Trim)",
+    "region": "Meath",
+    "cluster": "Boyne Valley (Meath)",
+    "lat": 53.558,
+    "long": -6.791,
+    "coord_precision": "precise",
+    "description": "The ruined Augustinian abbey across the River Boyne from Trim Castle, dominated by the 'Yellow Steeple' \u0014 a 40-metre tower that is the tallest medieval ruin in Trim. The abbey was founded in the 12th century and contained a celebrated statue of the Virgin ('Our Lady of Trim') that was a major pilgrimage destination until its destruction during the Reformation in 1538.",
+    "folklore": "The statue of Our Lady of Trim was venerated for several centuries as a miraculous image. When Cromwellian soldiers came in 1649 they mined the tower and caused an explosion to deprive potential Royalist defenders of a vantage point \u0014 the Yellow Steeple's shattered condition dates from this. Henry V of England reportedly prayed at the statue before the Battle of Agincourt (1415).",
+    "nature": "The Yellow Steeple rises from a meadow on the north riverbank and is a landmark visible from kilometres away. The Boyne meadows here are used by breeding lapwing and curlew.",
+    "icon_type": "church_monastic",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Yellow_Steeple_Trim.jpg",
+        "author": "Rabe!",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Yellow_Steeple_Trim.jpg"
+      }
+    ]
+  },
+  {
+    "name": "The Stag's Head",
+    "region": "Dublin",
+    "cluster": "Dublin",
+    "lat": 53.345,
+    "long": -6.267,
+    "coord_precision": "precise",
+    "description": "One of Dublin's finest Victorian pubs, set in a narrow lane off Dame Street in the medieval core of the city. Built in 1770 and refurbished in 1895 in an exuberant Victorian style, the interior features mahogany and stained glass panels, a carved stag's head over the bar, and decorated ceramic tiles. It is widely considered the best-preserved Victorian pub interior in Dublin and has been a beloved institution of Dublin literary and bohemian life for over a century.",
+    "folklore": "The Stag's Head was a favourite of Patrick Kavanagh, Brendan Behan, and other figures of Dublin's literary pub culture in the mid-20th century. The pub's lane (Dame Court) was long considered so hard to find that a map tile in a nearby pavement was created showing the way. During the 1916 Rising, the pub was a de facto meeting point for figures of the Irish revolutionary movement.",
+    "nature": "Located in the heart of Dublin's medieval quarter, near Dublin Castle, City Hall, and the old medieval city walls. A short walk from the River Liffey and Temple Bar.",
+    "icon_type": "pub_amenity",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/The_Stag%27s_Head_Dublin.jpg",
+        "author": "William Murphy",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:The_Stag%27s_Head_Dublin.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Dublin Airport",
+    "region": "Dublin",
+    "cluster": "",
+    "lat": 53.4264,
+    "long": -6.2499,
+    "coord_precision": "precise",
+    "description": "Ireland's largest airport and one of the busiest in Europe, handling over 32 million passengers annually. Located 10 km north of Dublin city centre, it serves as the main hub for Aer Lingus and Ryanair and offers direct transatlantic routes including the only pre-clearance US immigration facility in Europe outside North America.",
+    "folklore": "Dublin Airport opened in 1940, replacing a grass airstrip at Baldonnel. The original terminal building, designed by Desmond FitzGerald (father of Taoiseach Garret FitzGerald), is now listed as an architectural heritage structure. The airport was the point of arrival and departure for generations of Irish emigrants \u0014 and, since the Celtic Tiger, of their return.",
+    "nature": "The airport lies in the flat drumlin landscape north of Dublin. The surrounding farmland is used by flocks of lapwing and golden plover in winter. The River Tolka rises near the airport perimeter.",
+    "icon_type": "airport",
+    "main": true,
+    "images": []
+  }
+]
