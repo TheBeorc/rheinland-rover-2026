@@ -15,11 +15,11 @@ import { Crosshair, MapPin, Route as RouteIcon, Upload } from "lucide-react";
 
 // --- Constants ---
 const ARAN_BOUNDS: L.LatLngBoundsExpression = [
-  [53.0, -10.15],
-  [53.95, -6.4],
+  [47.2, 5.8],
+  [50.6, 13.9],
 ];
-const INITIAL_CENTER: L.LatLngExpression = [53.095, -9.62];
-const INITIAL_ZOOM = 9;
+const INITIAL_CENTER: L.LatLngExpression = [48.8, 9.5];
+const INITIAL_ZOOM = 7;
 
 // Carto Voyager - free, friendly, no key
 const TILE_URL = "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png";
