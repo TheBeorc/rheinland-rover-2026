@@ -1,7 +1,7 @@
 import { BookOpen, Link2 } from "lucide-react";
 
 const NOTEBOOK_URL =
-  "https://notebooklm.google.com/notebook/4c246e41-578b-49fc-9f7c-d1324c6439f3";
+  "https://notebooklm.google.com/notebook/8c86cba3-792c-455f-9a2c-c0468dbc6d02";
 
 export function NotebookLink() {
   return (
@@ -9,7 +9,7 @@ export function NotebookLink() {
       href={NOTEBOOK_URL}
       target="_blank"
       rel="noopener noreferrer"
-      aria-label="Open the Aran deep dive on NotebookLM"
+      aria-label="Open the Rheinland deep dive on NotebookLM"
       className="fixed bottom-4 right-4 z-[1000] group inline-flex items-center gap-2 rounded-full bg-[var(--color-sea-deep)] px-3 py-3 text-[var(--color-parchment)] shadow-lg shadow-black/30 ring-2 ring-white/20 transition hover:-translate-y-0.5 hover:bg-[var(--color-sea-deep)]/90 focus:outline-none focus:ring-4 focus:ring-white/40 sm:pl-4 sm:pr-5"
     >
       <span className="relative flex h-8 w-8 items-center justify-center">
