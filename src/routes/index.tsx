@@ -17,11 +17,11 @@ export const Route = createFileRoute("/")({
           "A playful illustrated field guide to southern Germany. Tap cartoon markers on a precise map to discover places and stories.",
       },
       { name: "theme-color", content: "#5fb0c9" },
-      { property: "og:title", content: "The Rheinland Rover 2026" },
+      { property: "og:title", content: "The Rheinland Rover 2026 — interactive field guide" },
       {
         property: "og:description",
         content:
-          "Wander southern Germany with a cartoon field guide on a geographically accurate map.",
+          "A playful illustrated field guide to southern Germany. Tap cartoon markers on a precise map to discover places and stories.",
       },
       { property: "og:type", content: "website" },
     ],
