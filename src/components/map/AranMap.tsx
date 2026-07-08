@@ -223,30 +223,12 @@ export interface AranMapProps {
   pois: Poi[];
   selected: Poi | null;
   onSelect: (poi: Poi | null) => void;
-  routes: RouteFeature[];
-  importedCount?: number;
-  onImportRoutes: (file: File) => Promise<void> | void;
-  onClearImported?: () => void;
-  onExportImported?: () => void;
 }
 
-export default function AranMap({
-  pois,
-  selected,
-  onSelect,
-  routes,
-  importedCount = 0,
-  onImportRoutes,
-  onClearImported,
-  onExportImported,
-}: AranMapProps) {
-
+export default function AranMap({ pois, selected, onSelect }: AranMapProps) {
   const geo = useWatchPosition();
   const [recenter, setRecenter] = useState<() => void>(() => () => {});
   const [geoNoticeDismissed, setGeoNoticeDismissed] = useState(false);
-  const [routesVisible, setRoutesVisible] = useState(true);
-  const [importError, setImportError] = useState<string | null>(null);
-  const fileInputRef = useRef<HTMLInputElement | null>(null);
 
   const selectedTarget = useMemo(
     () => (selected ? { lat: selected.lat, lng: selected.long } : null),
@@ -256,29 +238,8 @@ export default function AranMap({
   const showGeoNotice =
     !geoNoticeDismissed && (geo.status === "denied" || geo.status === "unavailable" || geo.status === "error");
 
-  const handleFiles = async (files: FileList | null) => {
-    if (!files || files.length === 0) return;
-    setImportError(null);
-    for (const file of Array.from(files)) {
-      try {
-        await onImportRoutes(file);
-      } catch (e) {
-        setImportError(e instanceof Error ? e.message : "Failed to import file");
-      }
-    }
-  };
-
   return (
-    <div
-      className="relative h-full w-full"
-      onDragOver={(e) => {
-        e.preventDefault();
-      }}
-      onDrop={(e) => {
-        e.preventDefault();
-        void handleFiles(e.dataTransfer.files);
-      }}
-    >
+    <div className="relative h-full w-full">
       <MapContainer
         center={INITIAL_CENTER}
         zoom={INITIAL_ZOOM}
@@ -292,12 +253,12 @@ export default function AranMap({
         style={{ background: "var(--color-sea)" }}
       >
         <TileLayer url={TILE_URL} attribution={TILE_ATTR} className="aran-tiles" />
-        <RoutesLayer routes={routes} visible={routesVisible} />
         <PoiClusterLayer pois={pois} onSelect={onSelect} />
         <UserLocationLayer fix={geo.fix} geoStatus={geo.status} pois={pois} setRecenter={setRecenter} />
         <FlyToOnSelect target={selectedTarget} />
         <MapClickCloser onClose={() => onSelect(null)} />
       </MapContainer>
+
 
       {/* Title chip */}
       <div className="pointer-events-none absolute left-3 top-3 z-[1000] flex items-center gap-2 rounded-full bg-card/95 px-3 py-1.5 text-sm font-semibold text-foreground shadow-md backdrop-blur">
