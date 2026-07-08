@@ -1,7 +1,7 @@
 import { BookOpen, Link2 } from "lucide-react";
 
 const NOTEBOOK_URL =
-  "https://notebooklm.google.com/notebook/4c246e41-578b-49fc-9f7c-d1324c6439f3";
+  "https://notebooklm.google.com/notebook/8c86cba3-792c-455f-9a2c-c0468dbc6d02";
 
 export function NotebookLink() {
   return (
