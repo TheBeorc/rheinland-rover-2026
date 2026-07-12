@@ -10,6 +10,7 @@ import { MapContainer, TileLayer, Circle, useMap, useMapEvents } from "react-lea
 import type { Poi } from "@/lib/poi";
 import { renderPoiIcon } from "@/lib/poi-icons";
 import { useWatchPosition } from "@/lib/geolocation";
+import { useRoutes, ROUTE_STYLE, type RouteFeature } from "@/lib/routes";
 import { Crosshair, MapPin } from "lucide-react";
 
 // --- Constants ---
@@ -216,7 +217,34 @@ function MapClickCloser({ onClose }: { onClose: () => void }) {
   return null;
 }
 
-// RoutesLayer removed
+function RoutesLayer({ routes }: { routes: RouteFeature[] }) {
+  const map = useMap();
+  useEffect(() => {
+    if (!routes.length) return;
+    const layers: L.Layer[] = [];
+    routes.forEach((r) => {
+      const style = ROUTE_STYLE[r.properties.mode];
+      const latlngs = r.geometry.coordinates.map(
+        ([lng, lat]) => [lat, lng] as [number, number],
+      );
+      const line = L.polyline(latlngs, {
+        color: style.color,
+        weight: 4,
+        opacity: 0.9,
+        dashArray: style.dashArray,
+        lineCap: "round",
+        lineJoin: "round",
+      });
+      line.bindTooltip(r.properties.name, { sticky: true, className: "aran-tooltip" });
+      line.addTo(map);
+      layers.push(line);
+    });
+    return () => {
+      layers.forEach((l) => map.removeLayer(l));
+    };
+  }, [map, routes]);
+  return null;
+}
 
 // --- Main component ---
 export interface AranMapProps {
@@ -229,6 +257,7 @@ export default function AranMap({ pois, selected, onSelect }: AranMapProps) {
   const geo = useWatchPosition();
   const [recenter, setRecenter] = useState<() => void>(() => () => {});
   const [geoNoticeDismissed, setGeoNoticeDismissed] = useState(false);
+  const { data: routes = [] } = useRoutes();
 
   const selectedTarget = useMemo(
     () => (selected ? { lat: selected.lat, lng: selected.long } : null),
@@ -254,6 +283,7 @@ export default function AranMap({ pois, selected, onSelect }: AranMapProps) {
       >
         <TileLayer url={TILE_URL} attribution={TILE_ATTR} className="aran-tiles" />
         <PoiClusterLayer pois={pois} onSelect={onSelect} />
+        <RoutesLayer routes={routes} />
         <UserLocationLayer fix={geo.fix} geoStatus={geo.status} pois={pois} setRecenter={setRecenter} />
         <FlyToOnSelect target={selectedTarget} />
         <MapClickCloser onClose={() => onSelect(null)} />
@@ -266,7 +296,24 @@ export default function AranMap({ pois, selected, onSelect }: AranMapProps) {
         The Rheinland Rover 2026
       </div>
 
-      {/* Routes panel removed */}
+      {/* Legend */}
+      {routes.length > 0 && (
+        <div className="absolute left-3 bottom-6 z-[1000] rounded-xl bg-card/95 px-3 py-2 text-xs text-foreground shadow-md backdrop-blur">
+          <div className="mb-1 font-semibold">Legend</div>
+          <div className="flex items-center gap-2">
+            <svg width="28" height="6" aria-hidden>
+              <line x1="0" y1="3" x2="28" y2="3" stroke={ROUTE_STYLE.car.color} strokeWidth="4" strokeLinecap="round" />
+            </svg>
+            <span>Driving</span>
+          </div>
+          <div className="mt-1 flex items-center gap-2">
+            <svg width="28" height="6" aria-hidden>
+              <line x1="0" y1="3" x2="28" y2="3" stroke={ROUTE_STYLE.walk.color} strokeWidth="4" strokeLinecap="round" strokeDasharray="2 6" />
+            </svg>
+            <span>Walking</span>
+          </div>
+        </div>
+      )}
 
       {/* Recenter FAB */}
       <button
