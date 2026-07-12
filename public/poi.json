@@ -10,7 +10,7 @@
     "folklore": "Il percorso collega diversi siti storici delle fortificazioni federali di Ulm, tra cui Fort Albeck e la Wilhelmsburg, componendo una narrazione a piedi della storia della regione. Passa accanto ai giardini botanici e domina la città natale di Albert Einstein.",
     "nature": "Viste continue sulla valle del Danubio e sulla cresta alpina: nelle giornate limpide la sagoma delle Alpi si staglia netta all'orizzonte. Il sentiero alterna tratti urbani, aree boscose e prati aperti.",
     "icon_type": "mountain_view",
-    "main": false,
+    "main": true,
     "images": []
   },
   {
@@ -24,7 +24,7 @@
     "folklore": "Sede del Concilio di Costanza (1414–1418), l'unica elezione papale a nord delle Alpi. Nel porto ruota la celebre statua dell'Imperia. Sotto una piramide di vetro nel centro giacciono le rovine di un forte romano del III secolo.",
     "nature": "Posizione strategica con ampie vedute sul lago e vicinanza alle Alpi svizzere e austriache. La vicina isola di Mainau ne fa un santuario urbano verde.",
     "icon_type": "altstadt_village",
-    "main": false,
+    "main": true,
     "images": []
   },
   {
@@ -136,7 +136,7 @@
     "folklore": "Amata leggenda locale è quella del Passero di Ulm, che avrebbe insegnato ai costruttori a trasportare le travi lunghe per il lato lungo attraverso le porte strette della città. All'interno, gli stalli del coro intagliati intorno al 1470 da Jörg Syrlin il Vecchio.",
     "nature": "Dalla cima della guglia il panorama spazia sulla valle del Danubio fino alle vette delle Alpi, Zugspitze compresa.",
     "icon_type": "church_abbey",
-    "main": false,
+    "main": true,
     "images": []
   },
   {
