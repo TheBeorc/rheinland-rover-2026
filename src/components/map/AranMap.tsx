@@ -217,7 +217,34 @@ function MapClickCloser({ onClose }: { onClose: () => void }) {
   return null;
 }
 
-// RoutesLayer removed
+function RoutesLayer({ routes }: { routes: RouteFeature[] }) {
+  const map = useMap();
+  useEffect(() => {
+    if (!routes.length) return;
+    const layers: L.Layer[] = [];
+    routes.forEach((r) => {
+      const style = ROUTE_STYLE[r.properties.mode];
+      const latlngs = r.geometry.coordinates.map(
+        ([lng, lat]) => [lat, lng] as [number, number],
+      );
+      const line = L.polyline(latlngs, {
+        color: style.color,
+        weight: 4,
+        opacity: 0.9,
+        dashArray: style.dashArray,
+        lineCap: "round",
+        lineJoin: "round",
+      });
+      line.bindTooltip(r.properties.name, { sticky: true, className: "aran-tooltip" });
+      line.addTo(map);
+      layers.push(line);
+    });
+    return () => {
+      layers.forEach((l) => map.removeLayer(l));
+    };
+  }, [map, routes]);
+  return null;
+}
 
 // --- Main component ---
 export interface AranMapProps {
