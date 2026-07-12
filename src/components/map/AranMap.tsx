@@ -257,6 +257,7 @@ export default function AranMap({ pois, selected, onSelect }: AranMapProps) {
   const geo = useWatchPosition();
   const [recenter, setRecenter] = useState<() => void>(() => () => {});
   const [geoNoticeDismissed, setGeoNoticeDismissed] = useState(false);
+  const { data: routes = [] } = useRoutes();
 
   const selectedTarget = useMemo(
     () => (selected ? { lat: selected.lat, lng: selected.long } : null),
