@@ -1,16 +1,16 @@
 import { useQuery } from "@tanstack/react-query";
 
 export type IconType =
-  | "holy_well"
-  | "church_monastic"
-  | "fort_dun"
-  | "castle_ruin"
-  | "beach_strand"
-  | "cliff_coast"
-  | "village_settlement"
-  | "pub_amenity"
-  | "natural_feature"
-  | "airport";
+  | "burg_schloss"
+  | "church_abbey"
+  | "altstadt_village"
+  | "museum"
+  | "brewery_gastro"
+  | "lake_river"
+  | "mountain_view"
+  | "spa_thermal"
+  | "transit_hub"
+  | "natural_feature";
 
 export type CoordPrecision = "precise" | "zona" | "uncertain";
 
@@ -42,17 +42,18 @@ export interface Poi {
 }
 
 export const KNOWN_ICON_TYPES: IconType[] = [
-  "holy_well",
-  "church_monastic",
-  "fort_dun",
-  "castle_ruin",
-  "beach_strand",
-  "cliff_coast",
-  "village_settlement",
-  "pub_amenity",
+  "burg_schloss",
+  "church_abbey",
+  "altstadt_village",
+  "museum",
+  "brewery_gastro",
+  "lake_river",
+  "mountain_view",
+  "spa_thermal",
+  "transit_hub",
   "natural_feature",
-  "airport",
 ];
+
 
 export function repairEncoding<T>(str: T): T {
   if (typeof str !== "string" || !str) return str;
