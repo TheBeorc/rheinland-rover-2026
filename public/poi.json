@@ -166,5 +166,782 @@
     "icon_type": "altstadt_village",
     "main": false,
     "images": []
+  },
+  {
+    "name": "Tübingen",
+    "region": "Baden-Württemberg",
+    "cluster": "Valle del Neckar",
+    "lat": 48.5227,
+    "long": 9.0522,
+    "coord_precision": "precise",
+    "description": "Pittoresca città universitaria sul Neckar, celebre per il centro medievale magnificamente conservato e le ripide viuzze acciottolate. Domina l'abitato il castello di Hohentübingen, che ospita importanti collezioni archeologiche.",
+    "folklore": "Polo spirituale e intellettuale sin dalla fondazione dell'università nel 1477. Tra le tradizioni locali spiccano le gare di Stocherkahn (le barche a pertica) sul Neckar. Il castello espone le figurine di Vogelherd, vecchie 40.000 anni, tra le più antiche opere d'arte figurativa conosciute.",
+    "nature": "Adagiata nella valle del Neckar, è circondata da vigneti terrazzati e colline verdeggianti, con il fiume a fare da fulcro naturale del paesaggio urbano.",
+    "icon_type": "altstadt_village",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Altstadt-tuebingen-1.jpg",
+        "author": "Dktue",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Schloss Lichtenstein (Castello di Lichtenstein)",
+    "region": "Baden-Württemberg",
+    "cluster": "Alb Sveva",
+    "lat": 48.4067,
+    "long": 9.2583,
+    "coord_precision": "precise",
+    "description": "Romantico castello neogotico del 1840, arroccato su una rupe calcarea a 250 metri sopra la valle dell'Echaz. È spesso chiamato il \"castello delle fiabe del Baden-Württemberg\" per la sua silhouette scenografica.",
+    "folklore": "Il conte Wilhelm von Urach lo fece erigere ispirandosi al romanzo storico Lichtenstein di Wilhelm Hauff. Fortezze precedenti risalenti al 1100 furono distrutte nelle guerre medievali.",
+    "nature": "Si integra nel terreno impervio dell'Alb Sveva; i sentieri circostanti offrono vedute panoramiche sulla valle e sulle dense chiome dei boschi.",
+    "icon_type": "burg_schloss",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Schloss_Lichtenstein_04-2010.jpg",
+        "author": "-donald-",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Friburgo (Freiburg im Breisgau)",
+    "region": "Baden-Württemberg",
+    "cluster": "Foresta Nera",
+    "lat": 47.9956,
+    "long": 7.8527,
+    "coord_precision": "precise",
+    "description": "Vivace città universitaria ecosostenibile, la \"porta della Foresta Nera\". Il centro storico è definito dal Münster e da una rete unica di canaletti d'acqua lungo le strade (i Bächle).",
+    "folklore": "Una leggenda vuole che chi mette per sbaglio il piede in un Bächle sia destinato a sposare una persona del luogo. La città ha da poco celebrato i 900 anni e vanta una lunga storia di attivismo ambientale che risale al 1975.",
+    "nature": "Ai piedi dello Schlossberg, offre accesso immediato ai sentieri forestali, con vedute che spaziano oltre la valle del Reno fino ai Vosgi.",
+    "icon_type": "altstadt_village",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Freiburg_im_Breisgau_M%C3%BCnster.jpg",
+        "author": "C. M. (Carl Möller)",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Triberger Wasserfälle (Cascate di Triberg)",
+    "region": "Baden-Württemberg",
+    "cluster": "Foresta Nera",
+    "lat": 48.1261,
+    "long": 8.2275,
+    "coord_precision": "precise",
+    "description": "Tra le cascate più alte della Germania: il fiume Gutach precipita per 163 metri su sette gradoni di roccia vulcanica. Accessibili tutto l'anno dal centro di Triberg.",
+    "folklore": "Triberg è il cuore della Strada Tedesca degli Orologi e il suo folklore è legato all'orologio a cucù. La zona è celebre anche per l'autentica torta della Foresta Nera (Schwarzwälder Kirschtorte).",
+    "nature": "Due chilometri di sentieri e passerelle in legno tra i boschi; lungo le cascate si avvistano spesso scoiattoli rossi.",
+    "icon_type": "lake_river",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Triberg_waterfall.jpg",
+        "author": "MargaritaGagina",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Belchensteig (Sentiero del Belchen)",
+    "region": "Baden-Württemberg",
+    "cluster": "Foresta Nera",
+    "lat": 47.8225,
+    "long": 7.833,
+    "coord_precision": "precise",
+    "description": "Sentiero escursionistico premium della Foresta Nera meridionale che conduce alla vetta del Belchen, la cima più scenografica della regione. Il percorso regala panorami a 360 gradi sulle catene circostanti.",
+    "folklore": "La montagna è da sempre luogo di raccoglimento spirituale, con sentieri pensati per celebrare la maestà della natura. Rifugi e locande storiche come il Wiedener Eck accolgono gli escursionisti da generazioni.",
+    "nature": "Nelle giornate limpide il panorama abbraccia le Alpi svizzere e i Vosgi francesi. L'ecosistema comprende praterie d'alta quota e fitte pinete.",
+    "icon_type": "mountain_view",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Belchen_vom_M%C3%BCnstertal_3.jpg",
+        "author": "Andreas Schwarzkopf",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Blackforestline (Ponte sospeso di Todtnau)",
+    "region": "Baden-Württemberg",
+    "cluster": "Foresta Nera",
+    "lat": 47.8433,
+    "long": 7.9423,
+    "coord_precision": "precise",
+    "description": "Spettacolare ponte pedonale sospeso lungo 450 metri presso Todtnau, inaugurato nel 2023 e sospeso a 120 metri sopra la valle. Offre una prospettiva unica sulla topografia della regione.",
+    "folklore": "Il moderno landmark prosegue la lunga tradizione di ingegneria e lavorazione del legno della Foresta Nera. Si collega a un sentiero circolare storico che racconta la cultura contadina tradizionale della regione.",
+    "nature": "Dal ponte si gode una veduta verticale sulla cascata di Todtnau e sui ripidi versanti boscosi dell'altopiano della Foresta Nera.",
+    "icon_type": "mountain_view",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Baden-W%C3%BCrttemberg_Todtnau_Blackforestline_H%C3%A4ngebr%C3%BCcke_01.jpg",
+        "author": "Calips",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Merkurberg (Monte Merkur)",
+    "region": "Baden-Württemberg",
+    "cluster": "Foresta Nera",
+    "lat": 48.7644,
+    "long": 8.2806,
+    "coord_precision": "precise",
+    "description": "Il punto più alto di Baden-Baden, raggiungibile con la funicolare Merkurbergbahn, una delle più ripide d'Europa. In cima una torre panoramica e un ristorante con vista.",
+    "folklore": "La funicolare trasporta i visitatori dal 1888. Il monte prende il nome da Merkur (Mercurio), dio romano del commercio e dei viaggi, richiamando le antiche origini romane della zona come luogo termale.",
+    "nature": "La vetta offre una veduta a 360 gradi sulla valle della Murg, sulla Foresta Nera e sulla lontana valle del Reno.",
+    "icon_type": "mountain_view",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Merkur_Baden-Baden_IMGP7974.JPG",
+        "author": "Sitacuisses",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Schwarzwaldhochstraße (Strada Alta della Foresta Nera)",
+    "region": "Baden-Württemberg",
+    "cluster": "Foresta Nera",
+    "lat": 48.5979,
+    "long": 8.201,
+    "coord_precision": "zona",
+    "description": "Nota anche come Strada Alta della Foresta Nera (B500), è un itinerario panoramico di 60 chilometri che corre sui crinali da Freudenstadt a Baden-Baden.",
+    "folklore": "Inaugurata nel 1932, è la più antica strada turistica della Germania. Il folklore ruota attorno al lago Mummelsee, laghetto glaciale d'alta quota abitato, secondo la leggenda, da un re sommerso e da ninfe delle acque.",
+    "nature": "Le quote raggiungono i 1.164 metri della Hornisgrinde, con vedute sulla pianura del Reno e sull'Alsazia. Il percorso include il Lothar-Pfad, che illustra la resilienza del bosco.",
+    "icon_type": "mountain_view",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Schwarzwaldhochstrasse_Mummelsee.JPG",
+        "author": "Rainer Lück",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Deutsches Romantik-Museum (Museo del Romanticismo Tedesco)",
+    "region": "Hesse",
+    "cluster": "Francoforte",
+    "lat": 50.1109,
+    "long": 8.6775,
+    "coord_precision": "precise",
+    "description": "A Francoforte, è il primo museo al mondo interamente dedicato al Romanticismo tedesco, accanto alla Casa di Goethe.",
+    "folklore": "L'architettura presenta la \"Scala verso il Paradiso\", un'illusione ottica che riflette il fascino romantico per l'infinito e lo spirituale. Custodisce ampie collezioni di manoscritti e opere d'arte dell'epoca.",
+    "nature": "Gli interni sono concepiti per evocare l'\"ora blu\" e le atmosfere luminose che definirono l'arte e la filosofia romantiche.",
+    "icon_type": "museum",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Romantik_Museum%2C_Frankfurt%2C_3_H%C3%A4user.jpg",
+        "author": "Gerda Arendt",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Mainz (Magonza)",
+    "region": "Other",
+    "cluster": "Magonza",
+    "lat": 49.9819,
+    "long": 8.28,
+    "coord_precision": "precise",
+    "description": "Capitale storica della Renania-Palatinato, alla confluenza del Reno e del Meno. Celebre per le rovine romane e la cattedrale medievale.",
+    "folklore": "È uno dei maggiori centri della Mainzer Fastnacht, tra i carnevali di strada più antichi e vivaci della Germania. Fu la città di Johannes Gutenberg, inventore della stampa a caratteri mobili.",
+    "nature": "Sorge in un crocevia geografico strategico, con ampi parchi lungo il fiume e la vicinanza alle fertili regioni vinicole del Rheingau.",
+    "icon_type": "altstadt_village",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mainzer_Dom_Blaue_Stunde_%2837539430014%29.jpg",
+        "author": "salomon10",
+        "license": "CC BY 2.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Gutenberg Museum (Museo Gutenberg)",
+    "region": "Other",
+    "cluster": "Magonza",
+    "lat": 49.9997,
+    "long": 8.2754,
+    "coord_precision": "precise",
+    "description": "Uno dei più antichi musei della stampa al mondo, nel cuore di Magonza di fronte alla cattedrale.",
+    "folklore": "È dedicato a Johannes Gutenberg, cittadino di Magonza del XV secolo che inventò la stampa a caratteri mobili. I suoi tesori più preziosi sono due Bibbie di Gutenberg originali del 1455.",
+    "nature": "Ha sede nella storica \"Casa dell'Imperatore Romano\", magnifico edificio rinascimentale presso il lungofiume del Reno.",
+    "icon_type": "museum",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg",
+        "author": "Pedelecs",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Zitadelle Mainz (Cittadella di Magonza)",
+    "region": "Other",
+    "cluster": "Magonza",
+    "lat": 49.9931,
+    "long": 8.2743,
+    "coord_precision": "precise",
+    "description": "Poderosa fortezza costruita nel 1660 sul colle dello Jakobsberg, una delle poche cittadelle della prima età moderna sopravvissute in Germania.",
+    "folklore": "Il sito è usato a scopo difensivo sin dall'epoca romana, quando ospitava il Castrum Mogontiacum. Oggi accoglie ogni Pentecoste il festival giovanile \"Open Ohr\".",
+    "nature": "La cittadella offre spazi verdi aperti e vedute panoramiche rialzate sulla città di Magonza e sul Reno.",
+    "icon_type": "burg_schloss",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/20180825_Zitadelle_Mainz_02.jpg",
+        "author": "Flocci Nivis",
+        "license": "CC BY 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Kupferberg Museum (Museo Kupferberg)",
+    "region": "Other",
+    "cluster": "Magonza",
+    "lat": 49.997,
+    "long": 8.273,
+    "coord_precision": "zona",
+    "description": "Museo singolare di Magonza con le cantine di spumante (Sekt) più profonde al mondo, che scendono per sette livelli fino a 50 metri sottoterra.",
+    "folklore": "Tra i punti forti la Traubensaal (Sala dell'Uva), capolavoro Art Nouveau originariamente concepito per l'Esposizione Universale di Parigi del 1900. Il museo documenta il boom ottocentesco dello spumante tedesco.",
+    "nature": "Le cantine sotterranee, scavate direttamente nella collina, mantengono una temperatura naturale costante ideale per l'affinamento del vino.",
+    "icon_type": "museum",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Schriftzug_an_dem_Geb%C3%A4ude_der_Kupferberg-Sektkellerei_in_Mainz.jpg",
+        "author": "Justus Blümer",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Romantisches Rheintal (Valle del Reno romantica)",
+    "region": "Other",
+    "cluster": "Gola del Reno",
+    "lat": 50.148,
+    "long": 7.712,
+    "coord_precision": "zona",
+    "description": "L'Alta Valle del Medio Reno tra Bingen e Coblenza, patrimonio UNESCO, celebre nel mondo per l'altissima concentrazione di castelli medievali e vigneti terrazzati.",
+    "folklore": "È la patria leggendaria della Loreley, spirito delle acque il cui canto attirava i marinai del Reno verso gli scogli. Fu una fonte d'ispirazione centrale per il Romanticismo tedesco dell'Ottocento.",
+    "nature": "Il fiume ha scavato una gola profonda nel massiccio scistoso renano, creando un microclima unico per la coltivazione del Riesling.",
+    "icon_type": "lake_river",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/St.Goarshausen_Loreley_Burg_Katz_2016-03-27-17-13-57.jpg",
+        "author": "Alexander Hoernigk",
+        "license": "CC BY 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Rüdesheim am Rhein",
+    "region": "Hesse",
+    "cluster": "Rheingau",
+    "lat": 49.9821,
+    "long": 7.9296,
+    "coord_precision": "precise",
+    "description": "Storica cittadina vinicola medievale alle porte della gola del Reno, celebre per lo stretto vicolo Drosselgasse.",
+    "folklore": "Il centro è un esempio iconico di architettura medievale tedesca. Il folklore ruota attorno alle feste del vino e al Rüdesheimer Kaffee, caffè specialità fiammeggiato con brandy locale.",
+    "nature": "Circondata dai ripidi vigneti assolati del Rheingau, offre vedute sulla prima grande ansa del fiume verso nord.",
+    "icon_type": "altstadt_village",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Panoramic_View_of_R%C3%BCdesheim_am_Rhein_20140928_1.jpg",
+        "author": "DXR",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Kloster Eberbach (Monastero di Eberbach)",
+    "region": "Hesse",
+    "cluster": "Rheingau",
+    "lat": 50.0388,
+    "long": 8.0413,
+    "coord_precision": "precise",
+    "description": "Ex monastero cistercense presso Eltville, fondato nel 1136, celebre per l'architettura romanica e gotica.",
+    "folklore": "I monaci furono pionieri della viticoltura, dando vita ad alcuni tra i più celebri vigneti tedeschi. Il dormitorio e i refettori austeri fecero da set al film Il nome della rosa.",
+    "nature": "In una valle laterale appartata del Reno, il complesso è circondato da boschi secolari e pendii vitati protetti.",
+    "icon_type": "church_abbey",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Kloster_Eberbach_fg01.JPG",
+        "author": "Fritz Geller-Grimm",
+        "license": "CC BY-SA 2.5",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Mariannenaue",
+    "region": "Hesse",
+    "cluster": "Rheingau",
+    "lat": 50.011,
+    "long": 8.078,
+    "coord_precision": "precise",
+    "description": "Ampia riserva naturale su un'isola del Reno presso Eltville, accessibile con tour in barca dedicati.",
+    "folklore": "Prende il nome dalla principessa Marianna dei Paesi Bassi; l'isola fu un tempo una tenuta agricola attiva, testimonianza della lunga interazione umana con le maree del fiume.",
+    "nature": "L'isola è un habitat cruciale per numerosi uccelli acquatici e rare piante ripariali: una delle poche golene naturali rimaste sul Reno.",
+    "icon_type": "natural_feature",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Rhein_stromabw%C3%A4rts_bei_Erbach_im_Rheingau_mit_Insel_Mariannenau_Hessen_Landesgrenze_Rheinland-Pfalz_links_-_Foto_Wolfgang_Pehlemann_Wiesbaden_Photo_IMG_0274.jpg",
+        "author": "Wolfgang Pehlemann",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Bingen am Rhein",
+    "region": "Other",
+    "cluster": "Gola del Reno",
+    "lat": 49.9668,
+    "long": 7.8992,
+    "coord_precision": "precise",
+    "description": "Cittadina storica dove il fiume Nahe si getta nel Reno, porta meridionale della gola del Reno patrimonio UNESCO.",
+    "folklore": "È celebre soprattutto come patria di Ildegarda di Bingen, poliedrica mistica del XII secolo. Il Mäuseturm (Torre dei Topi) nel fiume è legato alla leggenda di un vescovo crudele divorato dai topi per la sua avidità.",
+    "nature": "La città offre vedute sul Binger Loch, un tempo il punto di navigazione più pericoloso del Reno.",
+    "icon_type": "altstadt_village",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bingen_above.jpg",
+        "author": "Fourdee",
+        "license": "Public domain",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Burg Rheinstein (Castello di Rheinstein)",
+    "region": "Other",
+    "cluster": "Gola del Reno",
+    "lat": 49.9944,
+    "long": 7.8582,
+    "coord_precision": "precise",
+    "description": "Magnifico castello romantico dell'Ottocento arroccato su una rupe sopra Trechtingshausen.",
+    "folklore": "Originariamente castello di pedaggio del XIV secolo, fu ricostruito nel 1823 dal principe Federico di Prussia, primo dei castelli in rovina del Reno a essere restaurato. Custodisce una raccolta di armature e arredi medievali.",
+    "nature": "I giardini del castello comprendono i \"Giardini di Borgogna\" terrazzati e offrono ampie vedute sulla gola del fiume.",
+    "icon_type": "burg_schloss",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Rheinstein.jpg",
+        "author": "Manfred Heyde",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Bacharach",
+    "region": "Other",
+    "cluster": "Gola del Reno",
+    "lat": 50.0598,
+    "long": 7.7684,
+    "coord_precision": "precise",
+    "description": "Idilliaco borgo medievale sul Reno, spesso citato tra i più belli della Germania per le mura intatte e le case a graticcio.",
+    "folklore": "Il borgo è dominato dalle rovine della Wernerkapelle gotica e dal castello collinare Burg Stahleck. Il nome deriverebbe da \"Bacco\", dio del vino, a testimonianza della lunga tradizione vitivinicola.",
+    "nature": "Circondato da terrazze vitate ripide, il paese sorge in una stretta striscia di terra tra il fiume e le rupi.",
+    "icon_type": "altstadt_village",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Bacharach_from_the_Postenturm.jpg",
+        "author": "Jiuguang Wang",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Burg Pfalzgrafenstein",
+    "region": "Other",
+    "cluster": "Gola del Reno",
+    "lat": 50.0831,
+    "long": 7.7655,
+    "coord_precision": "precise",
+    "description": "Singolare castello di pedaggio costruito su un'isola rocciosa in mezzo al Reno presso Kaub.",
+    "folklore": "Fondato nel 1327, ha la forma di una nave di pietra che risale la corrente. La posizione insulare gli permetteva di controllare il traffico fluviale, imponendo pedaggi tramite una catena tesa sull'acqua.",
+    "nature": "Raggiungibile solo in traghetto, offre un'esperienza immersiva delle potenti correnti e della storia nautica del Reno.",
+    "icon_type": "burg_schloss",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Burg_Pfalzgrafenstein_2017.jpg",
+        "author": "Jörg Braukmann",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Oberwesel",
+    "region": "Other",
+    "cluster": "Gola del Reno",
+    "lat": 50.1075,
+    "long": 7.7266,
+    "coord_precision": "precise",
+    "description": "Detta la \"città delle torri\", è definita dalle sue 16 torri di guardia medievali superstiti e dalla Liebfrauenkirche in arenaria rossa.",
+    "folklore": "Ogni anno il paese incorona una \"Strega del vino\" (Weinhexe) come ambasciatrice dei vigneti locali. La storia è custodita nelle estese fortificazioni trecentesche.",
+    "nature": "Adagiata su un'ansa del Reno, è incassata tra la valle del Gündelbach e i ripidi pendii vitati.",
+    "icon_type": "altstadt_village",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sch%C3%B6nburg_Flaggenwiese.JPG",
+        "author": "Gabriele Delhey",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Loreley",
+    "region": "Other",
+    "cluster": "Gola del Reno",
+    "lat": 50.1428,
+    "long": 7.7297,
+    "coord_precision": "precise",
+    "description": "Imponente rupe di ardesia alta 132 metri che domina il punto più stretto e profondo del Reno.",
+    "folklore": "La leggenda narra di una bellissima sirena che, seduta sulla roccia, pettinava i capelli d'oro cantando una melodia che distraeva i marinai facendoli naufragare. Una statua bronzea della fanciulla sorge ai piedi della rupe.",
+    "nature": "La sommità offre una piattaforma panoramica con vedute sulle curve serpeggianti della gola del Reno.",
+    "icon_type": "mountain_view",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Loreley%2C_Rhine%2C_Castle_Katz.jpg",
+        "author": "imehling",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Boppard",
+    "region": "Other",
+    "cluster": "Gola del Reno",
+    "lat": 50.2313,
+    "long": 7.5886,
+    "coord_precision": "precise",
+    "description": "Pittoresca cittadina sulla più grande ansa del Reno, dove il fiume compie una spettacolare curva di 180 gradi.",
+    "folklore": "Conserva fondamenta romane eccezionalmente ben preservate, un tempo parte della fortezza Bodobrica. È nota per l'architettura Belle Époque del lungofiume.",
+    "nature": "Il punto panoramico Vierseenblick (Vista dei Quattro Laghi), raggiungibile in seggiovia, crea l'illusione ottica di un Reno diviso in quattro laghi montani.",
+    "icon_type": "altstadt_village",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/11210001.JPG",
+        "author": "Thomas Hoffmann",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Marksburg, Braubach",
+    "region": "Other",
+    "cluster": "Gola del Reno",
+    "lat": 50.2718,
+    "long": 7.6492,
+    "coord_precision": "precise",
+    "description": "Monumentale fortezza arroccata sopra Braubach, celebre come l'unico castello medievale d'altura sul Reno mai distrutto.",
+    "folklore": "Vanta 700 anni di storia ininterrotta. Le visite guidate obbligatorie conducono in ambienti autentici: la grande sala gotica, l'enorme cucina medievale e una macabra camera di tortura.",
+    "nature": "Braubach è soprannominata la \"città delle rose\", con il castello circondato da giardini con oltre 150 varietà di rose.",
+    "icon_type": "burg_schloss",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Marksburg-Braubach.jpg",
+        "author": "Tobi 87",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Koblenz (Coblenza)",
+    "region": "Other",
+    "cluster": "Coblenza",
+    "lat": 50.3536,
+    "long": 7.5788,
+    "coord_precision": "precise",
+    "description": "Una delle città più antiche della Germania, fondata dai Romani oltre 2.000 anni fa nel punto strategico d'incontro tra Reno e Mosella.",
+    "folklore": "Il nome Koblenz deriva dal latino Confluentes. Nell'Ottocento la città fu un centro amministrativo chiave della Provincia Renana prussiana.",
+    "nature": "È circondata da quattro catene montuose — Eifel, Hunsrück, Westerwald e Taunus — che ne fanno un grande hub per l'esplorazione fluviale e forestale.",
+    "icon_type": "altstadt_village",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Panorama_Koblenz.jpg",
+        "author": "Holger Weinandt",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Festung Ehrenbreitstein (Fortezza di Ehrenbreitstein)",
+    "region": "Other",
+    "cluster": "Coblenza",
+    "lat": 50.3634,
+    "long": 7.6107,
+    "coord_precision": "precise",
+    "description": "Una delle fortezze più grandi e meglio conservate d'Europa, a 118 metri sopra il Reno a Coblenza.",
+    "folklore": "Costruita dai Prussiani tra il 1817 e il 1828, fu concepita come \"fortezza che non si arrende mai\". Dal centro città la si raggiunge con una spettacolare funivia panoramica sul fiume.",
+    "nature": "Il sito offre vedute impareggiabili sul Deutsches Eck e sulla vasta confluenza delle valli del Reno e della Mosella.",
+    "icon_type": "burg_schloss",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Festung_Ehrenbreitstein_Luftbild_080.jpg",
+        "author": "Fritz Geller-Grimm",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Deutsches Eck (Angolo Tedesco)",
+    "region": "Other",
+    "cluster": "Coblenza",
+    "lat": 50.364,
+    "long": 7.6056,
+    "coord_precision": "precise",
+    "description": "L'iconico \"Angolo Tedesco\", ampio promontorio artificiale di Coblenza dove la Mosella confluisce nel Reno.",
+    "folklore": "È dominato da una statua equestre alta 37 metri dell'imperatore Guglielmo I, eretta nel 1897 e ricostruita come simbolo dell'unità tedesca. È un luogo di grande rilievo storico nazionale.",
+    "nature": "Il punto offre vedute verticali sulle due correnti fluviali che si fondono, incorniciate dalla fortezza di Ehrenbreitstein sull'altra sponda.",
+    "icon_type": "lake_river",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Koblenz_im_Buga-Jahr_2011_-_Deutsches_Eck_01.jpg",
+        "author": "Holger Weinandt",
+        "license": "CC BY-SA 3.0 de",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Schloss Stolzenfels (Castello di Stolzenfels)",
+    "region": "Other",
+    "cluster": "Coblenza",
+    "lat": 50.3032,
+    "long": 7.5924,
+    "coord_precision": "precise",
+    "description": "Esempio primario del Romanticismo renano, questo palazzo fu costruito nell'Ottocento da re Federico Guglielmo IV di Prussia sulle rovine di un castello del XIII secolo.",
+    "folklore": "Fu concepito come \"rifugio romantico\", con una sala dei cavalieri e sontuosi arredi che incarnano la nostalgia ottocentesca per il passato medievale.",
+    "nature": "Immerso in un parco paesaggistico, il palazzo domina il fiume a sud di Coblenza, circondato da giardini romantici.",
+    "icon_type": "burg_schloss",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Schloss_Stolzenfels_01_Koblenz_2015.jpg",
+        "author": "Holger Weinandt",
+        "license": "CC BY-SA 3.0 de",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Maria Laach",
+    "region": "Other",
+    "cluster": "Eifel",
+    "lat": 50.4022,
+    "long": 7.2522,
+    "coord_precision": "precise",
+    "description": "Monumentale abbazia benedettina a ovest del Reno, considerata uno dei più bei edifici romanici della Germania.",
+    "folklore": "Fondata nel 1093, la chiesa abbaziale è celebre per le sue sei torri e per l'atrio \"Paradiso\". Resta un centro spirituale e culturale attivo, con laboratori artigianali propri.",
+    "nature": "L'abbazia sorge sulle rive del Laacher See, ampio lago craterico vulcanico nella catena dell'Eifel.",
+    "icon_type": "church_abbey",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Maria_Laach_02.jpg",
+        "author": "Nikanos",
+        "license": "CC BY-SA 2.5",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Burg Eltz (Castello di Eltz)",
+    "region": "Other",
+    "cluster": "Valle della Mosella",
+    "lat": 50.2049,
+    "long": 7.3367,
+    "coord_precision": "precise",
+    "description": "Castello medievale eccezionalmente conservato, incastonato in una remota valle laterale della Mosella.",
+    "folklore": "È di proprietà e abitato dalla famiglia Eltz da oltre 800 anni (33 generazioni). Grazie alla posizione nascosta non fu mai conquistato né distrutto, mantenendo il carattere medievale originario.",
+    "nature": "Il castello è circondato su tre lati dal torrente Elzbach ed è immerso in un fitto santuario forestale protetto.",
+    "icon_type": "burg_schloss",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Le_ch%C3%A2teau_d%27Eltz_%28Burg_Eltz%29_en_allemagne_%28cropped%29.jpg",
+        "author": "Clementp.fr",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Trier (Treviri)",
+    "region": "Other",
+    "cluster": "Valle della Mosella",
+    "lat": 49.7557,
+    "long": 6.6394,
+    "coord_precision": "precise",
+    "description": "Fondata intorno al 16 a.C., Treviri è la città più antica della Germania e fu un'importante capitale dell'Impero Romano a nord delle Alpi.",
+    "folklore": "Ospita diversi siti UNESCO, su tutti la Porta Nigra, la porta urbana romana meglio conservata al mondo. Vi si trova anche la monumentale Aula Palatina, sala del trono dell'imperatore Costantino.",
+    "nature": "Nella fertile valle della Mosella, la città è circondata da alcuni dei vigneti di Riesling più ripidi e antichi della Germania.",
+    "icon_type": "altstadt_village",
+    "main": true,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Trier-Blick-vom_Weishaus.JPG",
+        "author": "CTHOE",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Brauhaus Kloster Machern",
+    "region": "Other",
+    "cluster": "Valle della Mosella",
+    "lat": 49.9547,
+    "long": 7.0023,
+    "coord_precision": "precise",
+    "description": "Popolare birrificio e ristorante in un ex monastero cistercense sulle rive della Mosella.",
+    "folklore": "Il sito è passato da istituzione religiosa a centro culturale laico e oggi ospita, oltre al birrificio, un museo del giocattolo e un museo delle icone.",
+    "nature": "Il complesso monastico offre tranquille vedute sul fiume ed è una tappa chiave per chi viaggia in barca o in bici nella valle della Mosella.",
+    "icon_type": "brewery_gastro",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Kloster_Machern_03.jpg",
+        "author": "Sir Gawain",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Cochem",
+    "region": "Other",
+    "cluster": "Valle della Mosella",
+    "lat": 50.1422,
+    "long": 7.1671,
+    "coord_precision": "precise",
+    "description": "Quintessenziale cittadina vinicola della Mosella, dominata dalla Reichsburg, imponente castello su un colle sopra il fiume.",
+    "folklore": "Il castello era in origine una fortezza imperiale dell'XI secolo, ricostruita in sfarzoso stile romantico negli anni 1870. Il folklore è legato a un millennio di produzione vinicola.",
+    "nature": "Qui il fiume compie diverse anse strette, creando spettacolari pendii terrazzati coltivati a Riesling.",
+    "icon_type": "altstadt_village",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cochem_and_Reichsburg.jpg",
+        "author": "Kai Pilger",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Vinoforum, Ernst",
+    "region": "Other",
+    "cluster": "Valle della Mosella",
+    "lat": 50.1554,
+    "long": 7.2085,
+    "coord_precision": "zona",
+    "description": "Moderno centro del vino e punto informativo nel villaggio di Ernst, dedicato alla cultura della viticoltura della Mosella.",
+    "folklore": "Celebra la radicata tradizione delle cantine a conduzione familiare della regione, con esposizioni interattive sulla storia della viticoltura di pendio.",
+    "nature": "Nel cuore del \"Cochemer Krampen\", serie di spettacolari anse fluviali caratterizzate da vigneti di Riesling di alta qualità.",
+    "icon_type": "brewery_gastro",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aerial_image_of_the_Moselle_in_Ernst_%28view_from_the_east%29.jpg",
+        "author": "Carsten Steger",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Worms",
+    "region": "Other",
+    "cluster": "Worms e Alto Reno",
+    "lat": 49.6328,
+    "long": 8.3592,
+    "coord_precision": "precise",
+    "description": "Importante città medievale sul Reno, tra i più antichi centri urbani della Germania e teatro di grandi eventi religiosi storici.",
+    "folklore": "È il luogo della \"Dieta di Worms\" del 1521, dove Martin Lutero affrontò l'imperatore. Il folklore la lega anche al poema dei Nibelunghi. Ospita il \"Heiliger Sand\", il più antico cimitero ebraico d'Europa.",
+    "nature": "Nella fertile pianura dell'Alto Reno, la città è circondata da terreni agricoli produttivi e vicine colline vinicole.",
+    "icon_type": "altstadt_village",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Nibelungenbr%C3%BCcke_mit_Dom%2C_Rhein%2C_Rheinpromenade_und_Innenstadt_Worms.jpg",
+        "author": "Struppig taucher",
+        "license": "CC BY 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
+  },
+  {
+    "name": "Heidelberg",
+    "region": "Baden-Württemberg",
+    "cluster": "Valle del Neckar",
+    "lat": 49.4077,
+    "long": 8.6908,
+    "coord_precision": "precise",
+    "description": "Città universitaria di fama mondiale sul Neckar, iconica per le rovine romantiche del castello e per l'Alte Brücke (Ponte Vecchio).",
+    "folklore": "Il castello ospita l'Heidelberger Fass, la più grande botte da vino del mondo, e riflette le ambizioni culturali degli Elettori Palatini. Fu un luogo chiave del Romanticismo tedesco ottocentesco in letteratura e arte.",
+    "nature": "La città è incorniciata dalle colline boscose dell'Odenwald. Il \"Sentiero dei Filosofi\" sulla sponda opposta offre le classiche vedute sul centro storico e sul castello.",
+    "icon_type": "altstadt_village",
+    "main": false,
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg",
+        "author": "Jörg Braukmann",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
   }
 ]
