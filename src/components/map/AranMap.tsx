@@ -141,6 +141,12 @@ function UserLocationLayer({
     });
   }, [fix, userInBounds, pois, map, setRecenter]);
 
+  // Start zoomed to the bounding box; we'll override with GPS once resolved.
+  useEffect(() => {
+    if (autoAppliedRef.current) return;
+    map.fitBounds(ARAN_BOUNDS as L.LatLngBoundsLiteral, { padding: [40, 40] });
+  }, [map]);
+
   // Smart initial view: apply once GPS resolves (granted/denied/unavailable/error)
   useEffect(() => {
     if (autoAppliedRef.current) return;
@@ -153,12 +159,11 @@ function UserLocationLayer({
 
     if (fix && userInBounds) {
       map.setView([fix.lat, fix.lng], 13);
-    } else if (pois.length > 0) {
-      const poiBounds = L.latLngBounds(pois.map((p) => [p.lat, p.long] as [number, number]));
-      map.fitBounds(poiBounds, { padding: [40, 40] });
+    } else {
+      map.fitBounds(ARAN_BOUNDS as L.LatLngBoundsLiteral, { padding: [40, 40] });
     }
     autoAppliedRef.current = true;
-  }, [fix, userInBounds, geoStatus, pois, map]);
+  }, [fix, userInBounds, geoStatus, map]);
 
   // Marker management
   useEffect(() => {
