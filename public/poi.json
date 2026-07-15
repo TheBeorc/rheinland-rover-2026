@@ -25,7 +25,14 @@
     "nature": "Posizione strategica con ampie vedute sul lago e vicinanza alle Alpi svizzere e austriache. La vicina isola di Mainau ne fa un santuario urbano verde.",
     "icon_type": "altstadt_village",
     "main": true,
-    "images": []
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Rheintorturm_in_Konstanz.jpg",
+        "author": "JoachimKohler-HB",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
   },
   {
     "name": "Meersburg",
@@ -39,7 +46,14 @@
     "nature": "Adagiata su colline che digradano verso il lago, con numerosi punti panoramici. Acque cristalline per la balneazione e terme cittadine.",
     "icon_type": "altstadt_village",
     "main": false,
-    "images": []
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Meersburg_-_Schloss_%C3%BCber_dem_See.jpg",
+        "author": "Reinhard Kirchner",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
   },
   {
     "name": "Basilika Birnau",
@@ -53,7 +67,14 @@
     "nature": "Arroccata su una collina con alcune delle migliori viste panoramiche sull'intero lago e sulle Alpi lontane, circondata da ampi vigneti e frutteti tradizionali.",
     "icon_type": "church_abbey",
     "main": false,
-    "images": []
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/%21746_bis_1749_wurde_das_Kloster_Birnau_erbaut._01.jpg",
+        "author": "Holger Uwe Schmitt",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
   },
   {
     "name": "Pfahlbauten (Museo delle palafitte, Unteruhldingen)",
@@ -67,7 +88,14 @@
     "nature": "Le palafitte sorgono direttamente sulle acque cristalline del lago, offrendo una prospettiva unica sull'ecosistema litorale, con montagne lontane e vegetazione lussureggiante sullo sfondo.",
     "icon_type": "museum",
     "main": false,
-    "images": []
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Pfahlbauten_Bodensee_--_Steinzeitdorf_%287644121684%29.jpg",
+        "author": "Heribert Pohl",
+        "license": "CC BY-SA 2.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
   },
   {
     "name": "Ravensburg",
@@ -81,7 +109,14 @@
     "nature": "In un paesaggio rurale tra il Lago di Costanza e l'Alb Sveva. Nei dintorni agriturismi come Gut Hügle, con ciliegeti, labirinti di mais e fattorie didattiche.",
     "icon_type": "altstadt_village",
     "main": false,
-    "images": []
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Blick_von_der_Veitsburg_auf_Ravensburg_mit_dem_Turm_%22Mehlsack%22_im_Vordergrund_%282025%29.jpg",
+        "author": "JoachimKohler-HB",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
   },
   {
     "name": "Weingarten (Basilica di San Martino)",
@@ -95,7 +130,14 @@
     "nature": "Tra le colline ondulate dell'Alta Svevia, terra agricola fertile e scenografica topografia prealpina.",
     "icon_type": "church_abbey",
     "main": false,
-    "images": []
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aerial_image_of_Weingarten_Abbey_%28view_from_the_southwest%29.jpg",
+        "author": "Carsten Steger",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
   },
   {
     "name": "Kloster Ochsenhausen",
@@ -109,7 +151,14 @@
     "nature": "Il complesso è immerso nella quieta campagna dell'altopiano dell'Alta Svevia, tra sentieri forestali silenziosi e piccole valli fluviali.",
     "icon_type": "church_abbey",
     "main": false,
-    "images": []
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/OchsenhausenKloster.jpg",
+        "author": "Ssch",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
   },
   {
     "name": "Ulm",
@@ -123,7 +172,14 @@
     "nature": "Ampi parchi costeggiano il Danubio; la Donauradweg (ciclovia del Danubio) segue il corso sinuoso del fiume. Nelle giornate limpide le Alpi sono visibili dalla città.",
     "icon_type": "altstadt_village",
     "main": false,
-    "images": []
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ulm_Panorama_01.jpg",
+        "author": "Uoaei1",
+        "license": "CC BY-SA 4.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
   },
   {
     "name": "Ulmer Münster (Duomo di Ulm)",
@@ -137,7 +193,14 @@
     "nature": "Dalla cima della guglia il panorama spazia sulla valle del Danubio fino alle vette delle Alpi, Zugspitze compresa.",
     "icon_type": "church_abbey",
     "main": true,
-    "images": []
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Landappbw_526530_1820_Ulmer_M%C3%BCnster_Luftaufnahme_Ulmer_M%C3%BCnster_%28cropped%29.jpg",
+        "author": "Armin Appel",
+        "license": "CC0",
+        "source": "Wikimedia Commons"
+      }
+    ]
   },
   {
     "name": "Kloster Wiblingen (Monastero di Wiblingen)",
@@ -151,7 +214,14 @@
     "nature": "Presso la confluenza di Danubio e Iller, tra quieti paesaggi fluviali. Cortili ampi e giardini monastici curati; tappa chiave della Strada Barocca dell'Alta Svevia.",
     "icon_type": "church_abbey",
     "main": false,
-    "images": []
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Wiblingen_Abbey.JPG",
+        "author": "Ekki01",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
   },
   {
     "name": "Blaubeuren",
@@ -165,7 +235,14 @@
     "nature": "Il Blautopf è una meraviglia naturale: l'acqua emerge da uno dei più grandi sistemi di grotte sotterranee della Germania. L'Alb Sveva è celebre per le falesie calcaree e le grotte dell'Era Glaciale, Patrimonio UNESCO. Punto di partenza di sentieri come il Blaubeurer Felsensteig.",
     "icon_type": "altstadt_village",
     "main": false,
-    "images": []
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Blaubeuren_von_Rusenschloss.jpg",
+        "author": "Harke",
+        "license": "CC BY-SA 3.0",
+        "source": "Wikimedia Commons"
+      }
+    ]
   },
   {
     "name": "Tübingen",
